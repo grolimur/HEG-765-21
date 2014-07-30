@@ -3,7 +3,7 @@
 
 *Raphaël Grolimund*, basé sur le cours d'*Iris Buunk*
 
-**31.10.2013 INTRODUCTION**
+31.10.2013 INTRODUCTION
 --------------------------------
 
 10:30-12:00 | 1a | Introduction au cours: objectifs, méthodes
@@ -13,7 +13,7 @@
 15:15-16:45 | 1c | Historique, contextes, publics-cibles, évolutions
 
 
-**7.11.2013 CULTURE INFORMATIONNELLE I**
+7.11.2013 CULTURE INFORMATIONNELLE I
 ----------------------------------------
 
 10:30-12:00 | 2a | La culture informationnelle: introduction théorique
