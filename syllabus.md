@@ -1,6 +1,6 @@
 # Syllabus 2014-2015
 
-*Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)
+*Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)<br/>
 <br/>
 
 **31.10.2013 INTRODUCTION**
