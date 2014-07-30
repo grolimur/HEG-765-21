@@ -48,7 +48,7 @@
 15:15-16:45 | 5c | Lancement des TP (étude de cas)
 
 
-**5.12.2013 PUBLICS & MILIEUX**
+**5.12.2013 PUBLICS & MILIEUX I**
 
 10:30-12:00 | 6a | ***Intervention de Laure Mellifluo***, *bibliothécaire responsable de la formation, Fac. Sciences, Université de Genève*: Le didactiel CALIS; Questions des étudiants & débat
 
@@ -57,3 +57,37 @@
 15:15-16:45 | 6c | Coaching TP
 
 
+**12.12.2013 PUBLICS & MILIEUX II**
+
+10:30-12:00 | 7a | ***Intervention de Katia Richard***, *bibliothécaire à l'Infothèque de la HEG*: Retour d'expérience et les screencasts
+
+13:15-14:45 | 7b | ***Intervention de Véronique Avellan***, *coordinatrice-métier des bibliothèques scoalires du canton de Vaud*: le rôle des bibliothécaires-formateurs dans les bibliothèques scolaires; Questions des étudiants & débat
+
+15:15-16:45 | 7c | Coaching TP
+
+
+**19.12.2013 ENJEUX**
+
+10:30-12:00 | 8a | ***Intervention de Raphaël Grolimund***, *[coordinateur] de la formation, bibliothèque de l'EPFL*: La formation des usagers dans le contexte du Rolex [Learning] Center; Questions des étudiants & débat
+
+13:15-14:45 | 8b | Les défis et les opportunités de la culture informationnelle
+
+15:15-16:45 | 8c | Coaching TP
+
+
+**09.01.2014 EVALUATION**
+
+10:30-12:00 | 9a | L'évaluation des compétences IL: autodiagnostics, tests, certifications
+
+13:15-14:45 | 9b | Processus d'évaluation
+
+15:15-16:45 | 9c | Coaching TP
+
+
+**16.01.2014 EVALUATION**
+
+10:30-12:00 | 10a | Récapitulatif du cours
+
+13:15-14:45 | 10b | Révision notions
+
+15:15-16:45 | 10c | Coaching TP
