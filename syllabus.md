@@ -3,7 +3,6 @@
 
 *Raphaël Grolimund*, basé sur le cours d'*Iris Buunk*
 
---------------------------------
 **31.10.2013 INTRODUCTION**
 --------------------------------
 
@@ -13,7 +12,7 @@
 
 15:15-16:45 | 1c | Historique, contextes, publics-cibles, évolutions
 
-----------------------------------------
+
 **7.11.2013 CULTURE INFORMATIONNELLE I**
 ----------------------------------------
 
