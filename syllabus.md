@@ -1,7 +1,6 @@
-# Formation des usagers en bibliothèque (cours n° 765-2n)
-### Haute école de gestion (HEG) de Genève, filière information documentaire
+# Syllabus 2014-2015
 
-*Raphaël Grolimund*, basé sur le cours d'*Iris Buunk*
+*Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)
 
 
 **31.10.2013 INTRODUCTION**
