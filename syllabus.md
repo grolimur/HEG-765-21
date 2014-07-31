@@ -5,7 +5,7 @@
 
 **31.10.2013 INTRODUCTION**
 
-10:30-12:00 | 1a | 'Introduction au cours: objectifs, méthodes'
+10:30-12:00 | 1a | `Introduction au cours: objectifs, méthodes`
 
 13:15-14:45 | 1b | Le métier de formateur-bibliothécaire
 
