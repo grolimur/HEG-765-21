@@ -5,14 +5,14 @@
 
 **31.10.2013 INTRODUCTION**
 
-10:30-12:00 | 1a | `Introduction au cours: objectifs, méthodes`
+10:30-12:00 | 1a | Introduction au cours: objectifs, méthodes
 
 13:15-14:45 | 1b | Le métier de formateur-bibliothécaire
 
-15:15-16:45 | 1c | Historique, contextes, publics-cibles, évolutions
+15:15-16:45 | 1c | `Historique, contextes, publics-cibles, évolutions`
 
 
-**7.11.2013 CULTURE INFORMATIONNELLE I**
+**7.11.2013 COMPETENCES INFORMATIONNELLES** (par ED ?)
 
 10:30-12:00 | 2a | La culture informationnelle: introduction théorique
 
@@ -21,7 +21,7 @@
 15:15-16:45 | 2c | La culture informationnelle: exemples de cas pratiques
 
 
-**14.11.2013 CULTURE INFORMATIONNELLE II**
+**14.11.2013 DEFINIR LA FORMATION**
 
 10:30-12:00 | 3a | La culture informationnelle: les référentiels de compétences
 
@@ -30,7 +30,7 @@
 15:15-16:45 | 3c | La culture informationnelle: le *projet Magellan*
 
 
-**21.11.2013 PEDADOGIE**
+**21.11.2013 `PEDADOGIE`**
 
 10:30-12:00 | 4a | Pédagogie: révision des notions de base
 
