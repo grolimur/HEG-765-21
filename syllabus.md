@@ -90,4 +90,7 @@
 
 13:15-14:45 | 10b | Révision notions
 
-15:15-16:45 | 10c | Coaching TP
+15:15-16:45 | 10c | Coaching TP<br/>
+<br/>
+v0.1 / reprod. syllabus IB 2013-2014
+
