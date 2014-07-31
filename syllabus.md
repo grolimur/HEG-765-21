@@ -34,7 +34,7 @@ contenu prévu<br/>
 15:15-16:45 | 3c | 
 
 
-**21.11.2013 `PEDADOGIE`**
+**21.11.2013 `PEDADOGIE`** ?
 
 10:30-12:00 | 4a | `Pédagogie: révision des notions de base`
 
