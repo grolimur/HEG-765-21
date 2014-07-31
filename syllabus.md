@@ -2,10 +2,10 @@
 
 *Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)<br/>
 <br/>
-| **Légende** |
-| contenu prévu<br/>
-`contenu à modifier` |
-
+**Légende**:<br/>
+contenu prévu<br/>
+`contenu à modifier`<br/>
+<br/>
 
 **31.10.2013 INTRODUCTION**
 
