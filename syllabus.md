@@ -2,6 +2,10 @@
 
 *Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)<br/>
 <br/>
+**Légende**:<br/>
+contenu prévu<br/>
+`contenu à modifier`<br/>
+<br/>
 
 **31.10.2013 INTRODUCTION**
 
@@ -9,88 +13,93 @@
 
 13:15-14:45 | 1b | Le métier de formateur-bibliothécaire
 
-15:15-16:45 | 1c | Historique, contextes, publics-cibles, évolutions
+15:15-16:45 | 1c | Définir une formation
 
 
-**7.11.2013 CULTURE INFORMATIONNELLE I**
+**7.11.2013 COMPETENCES INFORMATIONNELLES** (*par Evelyne Deferr*)
 
-10:30-12:00 | 2a | La culture informationnelle: introduction théorique
+10:30-12:00 | 2a | (La culture informationnelle: définition et standards)
 
-13:15-14:45 | 2b | La culture informationnelle: tendances et évolutions
+13:15-14:45 | 2b | (La culture informationnelle dans la pratique)
 
-15:15-16:45 | 2c | La culture informationnelle: exemples de cas pratiques
-
-
-**14.11.2013 CULTURE INFORMATIONNELLE II**
-
-10:30-12:00 | 3a | La culture informationnelle: les référentiels de compétences
-
-13:15-14:45 | 3b | La culture informationnelle: les normes et standards (ALA, UNESCO, IFLA...)
-
-15:15-16:45 | 3c | La culture informationnelle: le *projet Magellan*
+15:15-16:45 | 2c | (La culture informationnelle: le *projet Magellan*)
 
 
-**21.11.2013 PEDADOGIE**
+**14.11.2013 PREPARER LA FORMATION: METHODES**
+`Isabelle Niklès ?`
 
-10:30-12:00 | 4a | Pédagogie: révision des notions de base
+10:30-12:00 | 3a | `La culture informationnelle: les référentiels de compétences & normes et standards (ALA, UNESCO, IFLA...)`
 
-13:15-14:45 | 4b | Approches pédagogiques selon les milieux et les publics
+13:15-14:45 | 3b | 
 
-15:15-16:45 | 4c | Trucs & astuces des formateurs
-
-
-**28.11.2013 OUTILS**
-
-10:30-12:00 | 5a | Outils didactiques: tutoriels, scrteencast, e-portfolio, e-learning
-
-13:15-14:45 | 5b | Outils didactiques: exemples de cas pratiques
-
-15:15-16:45 | 5c | Lancement des TP (étude de cas)
+15:15-16:45 | 3c | Exercice
 
 
-**5.12.2013 PUBLICS & MILIEUX I**
+**21.11.2013 PREPARER LA FORMATION: METHODES**
+`Véronique Avellan ?`
+`Isabelle Niklès ?`
 
-10:30-12:00 | 6a | ***Intervention de Laure Mellifluo***, *bibliothécaire responsable de la formation, Fac. Sciences, Université de Genève*: Le didactiel CALIS; Questions des étudiants & débat
+10:30-12:00 | 4a | `Retour d'expérience: Véronique Avellan (bibliothèques scolaires)`
 
-13:15-14:45 | 6b | Atelier
+13:15-14:45 | 4b | `Pédagogie: révision des notions de base`
+
+15:15-16:45 | 4c | Début coaching TP
+
+
+**28.11.2013 PREPARER LA FORMATION: OUTILS**
+`Laure Mellifluo`
+
+10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (bibliothèque universitaire)
+
+13:15-14:45 | 5b | `Outils didactiques: tutoriels, screencast, e-portfolio, e-learning`
+
+15:15-16:45 | 5c | Coaching TP
+
+
+**5.12.2013 PREPARER LA FORMATION: OUTILS**
+`Véronique Avellan ?`
+
+10:30-12:00 | 6a | 
+
+13:15-14:45 | 6b | 
 
 15:15-16:45 | 6c | Coaching TP
 
 
-**12.12.2013 PUBLICS & MILIEUX II**
+**12.12.2013 PREPARER LA FORMATION: PUBLICS**
+`Véronique Avellan ?`
+`Karine Pasquier ?`
 
-10:30-12:00 | 7a | ***Intervention de Katia Richard***, *bibliothécaire à l'Infothèque de la HEG*: Retour d'expérience et les screencasts
+10:30-12:00 | 7a | Retour d'expérience: Karine Pasquier (bibliothèque municipale)
 
-13:15-14:45 | 7b | ***Intervention de Véronique Avellan***, *coordinatrice-métier des bibliothèques scoalires du canton de Vaud*: le rôle des bibliothécaires-formateurs dans les bibliothèques scolaires; Questions des étudiants & débat
+13:15-14:45 | 7b | 
 
 15:15-16:45 | 7c | Coaching TP
 
 
-**19.12.2013 ENJEUX**
+**19.12.2013 DONNER LA FORMATION**
+`Karine Pasquier ?`
 
-10:30-12:00 | 8a | ***Intervention de Raphaël Grolimund***, *[coordinateur] de la formation, bibliothèque de l'EPFL*: La formation des usagers dans le contexte du Rolex [Learning] Center; Questions des étudiants & débat
+10:30-12:00 | 8a | 
 
-13:15-14:45 | 8b | Les défis et les opportunités de la culture informationnelle
+13:15-14:45 | 8b | 
 
 15:15-16:45 | 8c | Coaching TP
 
 
-**09.01.2014 EVALUATION**
+**09.01.2014 EVALUER LA FORMATION**
 
-10:30-12:00 | 9a | L'évaluation des compétences IL: autodiagnostics, tests, certifications
+10:30-12:00 | 9a | 
 
-13:15-14:45 | 9b | Processus d'évaluation
+13:15-14:45 | 9b | 
 
 15:15-16:45 | 9c | Coaching TP
 
 
-**16.01.2014 EVALUATION**
+**16.01.2014 `RECAPITULATIF`**
 
-10:30-12:00 | 10a | Récapitulatif du cours
+10:30-12:00 | 10a | `Récapitulatif du cours`
 
-13:15-14:45 | 10b | Révision notions
+13:15-14:45 | 10b | `Révision notions`
 
-15:15-16:45 | 10c | Coaching TP<br/>
-<br/>
-v0.1 / reprod. syllabus IB 2013-2014
-
+15:15-16:45 | 10c | `Coaching TP`
