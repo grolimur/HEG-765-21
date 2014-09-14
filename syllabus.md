@@ -7,7 +7,7 @@ contenu prévu<br/>
 `contenu à modifier`<br/>
 <br/>
 
-**31.10.2013 INTRODUCTION**
+**30.10.2014 INTRODUCTION**
 
 10:30-12:00 | 1a | Introduction au cours: objectifs, méthodes
 
@@ -16,7 +16,7 @@ contenu prévu<br/>
 15:15-16:45 | 1c | Définir une formation
 
 
-**7.11.2013 COMPETENCES INFORMATIONNELLES** (*par Evelyne Deferr*)
+**6.11.2014 COMPETENCES INFORMATIONNELLES** (*par ED*)
 
 10:30-12:00 | 2a | (La culture informationnelle: définition et standards)
 
@@ -25,8 +25,7 @@ contenu prévu<br/>
 15:15-16:45 | 2c | (La culture informationnelle: le *projet Magellan*)
 
 
-**14.11.2013 PREPARER LA FORMATION: METHODES**
-`Isabelle Niklès ?`
+**13.11.2014 PREPARER LA FORMATION: METHODES**
 
 10:30-12:00 | 3a | `La culture informationnelle: les référentiels de compétences & normes et standards (ALA, UNESCO, IFLA...)`
 
@@ -35,9 +34,8 @@ contenu prévu<br/>
 15:15-16:45 | 3c | Exercice
 
 
-**21.11.2013 PREPARER LA FORMATION: METHODES**
+**20.11.2014 PREPARER LA FORMATION: METHODES**
 `Véronique Avellan ?`
-`Isabelle Niklès ?`
 
 10:30-12:00 | 4a | `Retour d'expérience: Véronique Avellan (bibliothèques scolaires)`
 
@@ -46,7 +44,7 @@ contenu prévu<br/>
 15:15-16:45 | 4c | Début coaching TP
 
 
-**28.11.2013 PREPARER LA FORMATION: OUTILS**
+**27.11.2014 PREPARER LA FORMATION: OUTILS**
 `Laure Mellifluo`
 
 10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (bibliothèque universitaire)
@@ -56,7 +54,7 @@ contenu prévu<br/>
 15:15-16:45 | 5c | Coaching TP
 
 
-**5.12.2013 PREPARER LA FORMATION: OUTILS**
+**4.12.2014 PREPARER LA FORMATION: OUTILS**
 `Véronique Avellan ?`
 
 10:30-12:00 | 6a | 
@@ -66,18 +64,18 @@ contenu prévu<br/>
 15:15-16:45 | 6c | Coaching TP
 
 
-**12.12.2013 PREPARER LA FORMATION: PUBLICS**
+**11.12.2014 PREPARER LA FORMATION: PUBLICS**
 `Véronique Avellan ?`
 `Karine Pasquier ?`
 
-10:30-12:00 | 7a | Retour d'expérience: Karine Pasquier (bibliothèque municipale)
+10:30-12:00 | 7a | 
 
 13:15-14:45 | 7b | 
 
 15:15-16:45 | 7c | Coaching TP
 
 
-**19.12.2013 DONNER LA FORMATION**
+**18.12.2014 DONNER LA FORMATION**
 `Karine Pasquier ?`
 
 10:30-12:00 | 8a | 
@@ -87,7 +85,7 @@ contenu prévu<br/>
 15:15-16:45 | 8c | Coaching TP
 
 
-**09.01.2014 EVALUER LA FORMATION**
+**08.01.2015 EVALUER LA FORMATION**
 
 10:30-12:00 | 9a | 
 
@@ -96,10 +94,10 @@ contenu prévu<br/>
 15:15-16:45 | 9c | Coaching TP
 
 
-**16.01.2014 `RECAPITULATIF`**
+**15.01.2015 `MISE EN PRATIQUE`**
 
-10:30-12:00 | 10a | `Récapitulatif du cours`
+10:30-12:00 | 10a | 
 
-13:15-14:45 | 10b | `Révision notions`
+13:15-14:45 | 10b | 
 
-15:15-16:45 | 10c | `Coaching TP`
+15:15-16:45 | 10c | 
