@@ -13,10 +13,10 @@ contenu prévu<br/>
 
 13:15-14:45 | 1b | Le métier de formateur-bibliothécaire
 
-15:15-16:45 | 1c | Définir une formation
+15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
 
 
-**6.11.2014 COMPETENCES INFORMATIONNELLES** (*par ED*)
+**6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** `(*par ED?*)`
 
 10:30-12:00 | 2a | (La culture informationnelle: définition et standards)
 
@@ -25,7 +25,7 @@ contenu prévu<br/>
 15:15-16:45 | 2c | (La culture informationnelle: le *projet Magellan*)
 
 
-**13.11.2014 PREPARER LA FORMATION: METHODES**
+**13.11.2014 PREPARER LA FORMATION: PUBLICS**
 
 10:30-12:00 | 3a | `La culture informationnelle: les référentiels de compétences & normes et standards (ALA, UNESCO, IFLA...)`
 
@@ -37,19 +37,19 @@ contenu prévu<br/>
 **20.11.2014 PREPARER LA FORMATION: METHODES**
 `Véronique Avellan ?`
 
-10:30-12:00 | 4a | `Retour d'expérience: Véronique Avellan (bibliothèques scolaires)`
+10:30-12:00 | 4a | Pédagogie: révision des notions de base
 
-13:15-14:45 | 4b | `Pédagogie: révision des notions de base`
+13:15-14:45 | 4b | 
 
 15:15-16:45 | 4c | Début coaching TP
 
 
-**27.11.2014 PREPARER LA FORMATION: OUTILS**
+**27.11.2014 PREPARER LA FORMATION: METHODES**
 `Laure Mellifluo`
 
-10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (bibliothèque universitaire)
+10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (contexte académique)
 
-13:15-14:45 | 5b | `Outils didactiques: tutoriels, screencast, e-portfolio, e-learning`
+13:15-14:45 | 5b | 
 
 15:15-16:45 | 5c | Coaching TP
 
@@ -64,7 +64,7 @@ contenu prévu<br/>
 15:15-16:45 | 6c | Coaching TP
 
 
-**11.12.2014 PREPARER LA FORMATION: PUBLICS**
+**11.12.2014 PREPARER LA FORMATION: OUTILS**
 `Véronique Avellan ?`
 `Karine Pasquier ?`
 
@@ -78,7 +78,7 @@ contenu prévu<br/>
 **18.12.2014 DONNER LA FORMATION**
 `Karine Pasquier ?`
 
-10:30-12:00 | 8a | 
+10:30-12:00 | 8a | trucs et astuces de formateur
 
 13:15-14:45 | 8b | 
 
