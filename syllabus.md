@@ -17,7 +17,6 @@ contenu prévu<br/>
 
 
 **6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** [TRAVAIL PERSONNEL]
-*Pas de cours le 6 nov.*
 
 --:-----:-- | 2a | Prendre connaissance du matériel mis à disposition [individuel]
 
