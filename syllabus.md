@@ -16,85 +16,85 @@ contenu prévu<br/>
 15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
 
 
-**6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** `(*par ED?*)`
+**6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** [TRAVAIL PERSONNEL]
+*Pas de cours le 6 nov.*
 
-10:30-12:00 | 2a | (La culture informationnelle: définition et standards)
+--:-----:-- | 2a | Prendre connaissance du matériel mis à disposition [individuel]
 
-13:15-14:45 | 2b | (La culture informationnelle dans la pratique)
+--:-----:-- | 2b | Restituer le contenu du matériel lu/visionnné/etc. sous une forme différente [individuel]
 
-15:15-16:45 | 2c | (La culture informationnelle: le *projet Magellan*)
-
-
-**13.11.2014 PREPARER LA FORMATION: PUBLICS**
-
-10:30-12:00 | 3a | `La culture informationnelle: les référentiels de compétences & normes et standards (ALA, UNESCO, IFLA...)`
-
-13:15-14:45 | 3b | 
-
-15:15-16:45 | 3c | Exercice
+--:-----:-- | 2c | Choisir un sujet sur lequel donner une formation [en groupe]
 
 
-**20.11.2014 PREPARER LA FORMATION: METHODES**
+**13.11.2014 PREPARER LA FORMATION: GÉNÉRALITÉS**
+
+10:30-12:00 | 3a | La culture informationnelle et les bibliothèques
+
+13:15-14:45 | 3b | Pédagogie: révision des notions de base
+
+15:15-16:45 | 3c | Début Travaux Pratiques (TP): check-list [en groupe]
+
+
+**20.11.2014 PREPARER LA FORMATION: PUBLICS**
 `Véronique Avellan ?`
 
-10:30-12:00 | 4a | Pédagogie: révision des notions de base
+10:30-12:00 | 4a | Adapter sa formation à son public
 
-13:15-14:45 | 4b | 
+13:15-14:45 | 4b | *Information Literacy* et autres *Literacies*
 
-15:15-16:45 | 4c | Début coaching TP
+15:15-16:45 | 4c | Coaching TP: Check-list et séquence [en groupe]
 
 
 **27.11.2014 PREPARER LA FORMATION: METHODES**
-`Laure Mellifluo`
 
 10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (contexte académique)
 
-13:15-14:45 | 5b | 
+13:15-14:45 | 5b | Faire passer des messages
 
-15:15-16:45 | 5c | Coaching TP
+15:15-16:45 | 5c | Coaching TP: séquence [en groupe]
 
 
-**4.12.2014 PREPARER LA FORMATION: OUTILS**
+**4.12.2014 PREPARER LA FORMATION: METHODES**
 `Véronique Avellan ?`
 
 10:30-12:00 | 6a | 
 
-13:15-14:45 | 6b | 
+13:15-14:45 | 6b | Créer de l'interaction
 
-15:15-16:45 | 6c | Coaching TP
+15:15-16:45 | 6c | Coaching TP: séquence [en groupe]
 
 
 **11.12.2014 PREPARER LA FORMATION: OUTILS**
 `Véronique Avellan ?`
 `Karine Pasquier ?`
 
-10:30-12:00 | 7a | 
+10:30-12:00 | 7a | Préparer un cours présentiel
 
-13:15-14:45 | 7b | 
+13:15-14:45 | 7b | Préparer en cours en ligne
 
-15:15-16:45 | 7c | Coaching TP
+15:15-16:45 | 7c | Coaching TP: supports [en groupe]
 
 
-**18.12.2014 DONNER LA FORMATION**
+**18.12.2014 PREPARER LA FORMATION: OUTILS**
 `Karine Pasquier ?`
 
-10:30-12:00 | 8a | trucs et astuces de formateur
+10:30-12:00 | 8a | 
 
-13:15-14:45 | 8b | 
+13:15-14:45 | 8b | Trucs et astuces de formateur
 
-15:15-16:45 | 8c | Coaching TP
+15:15-16:45 | 8c | Coaching TP: supports [en groupe]
 
 
 **08.01.2015 EVALUER LA FORMATION**
 
-10:30-12:00 | 9a | 
+10:30-12:00 | 9a | Evaluer les participants
 
-13:15-14:45 | 9b | 
+13:15-14:45 | 9b | Evaluer le/la formateur/formatrice
 
-15:15-16:45 | 9c | Coaching TP
+15:15-16:45 | 9c | Coaching TP: supports [en groupe]
 
 
-**15.01.2015 `MISE EN PRATIQUE`**
+**15.01.2015 DONNER LA FORMATION**
 
 10:30-12:00 | 10a | 
 
