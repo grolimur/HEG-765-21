@@ -65,7 +65,6 @@ contenu prévu<br/>
 
 **11.12.2014 PREPARER LA FORMATION: OUTILS**
 `Véronique Avellan ?`
-`Karine Pasquier ?`
 
 10:30-12:00 | 7a | Préparer un cours présentiel
 
@@ -75,9 +74,8 @@ contenu prévu<br/>
 
 
 **18.12.2014 PREPARER LA FORMATION: OUTILS**
-`Karine Pasquier ?`
 
-10:30-12:00 | 8a | 
+10:30-12:00 | 8a | Retour d'expérience: Karine Yoakim-Pasquier (contexte lecture publique)
 
 13:15-14:45 | 8b | Trucs et astuces de formateur
 
