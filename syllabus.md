@@ -56,7 +56,7 @@ contenu prévu<br/>
 **4.12.2014 PREPARER LA FORMATION: METHODES**
 `Véronique Avellan ?`
 
-10:30-12:00 | 6a | 
+10:30-12:00 | 6a | `???`
 
 13:15-14:45 | 6b | Créer de l'interaction
 
@@ -74,8 +74,9 @@ contenu prévu<br/>
 
 
 **18.12.2014 PREPARER LA FORMATION: OUTILS**
+`Karine Pasquier ?`
 
-10:30-12:00 | 8a | Retour d'expérience: Karine Yoakim-Pasquier (contexte lecture publique)
+10:30-12:00 | 8a | `???`
 
 13:15-14:45 | 8b | Trucs et astuces de formateur
 
@@ -93,8 +94,8 @@ contenu prévu<br/>
 
 **15.01.2015 DONNER LA FORMATION**
 
-10:30-12:00 | 10a | 
+10:30-12:00 | 10a | Examen
 
-13:15-14:45 | 10b | 
+13:15-14:45 | 10b | Examen
 
-15:15-16:45 | 10c | 
+15:15-16:45 | 10c | Examen
