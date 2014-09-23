@@ -94,8 +94,8 @@ contenu prévu<br/>
 
 **15.01.2015 DONNER LA FORMATION**
 
-10:30-12:00 | 10a | Examen
+10:30-12:00 | 10a | Examen (1ère partie)
 
-13:15-14:45 | 10b | Examen
+13:15-14:45 | 10b | Examen (2e partie)
 
-15:15-16:45 | 10c | Examen
+15:15-16:45 | 10c | Examen (3e partie)
