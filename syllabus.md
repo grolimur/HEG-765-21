@@ -31,7 +31,6 @@
 
 
 **20.11.2014 PREPARER LA FORMATION: PUBLICS**
-`Véronique Avellan ?`
 
 10:30-12:00 | 4a | Adapter sa formation à son public
 
