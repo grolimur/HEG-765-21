@@ -7,7 +7,7 @@
 
 10:30-12:00 | 1a | Introduction au cours: objectifs, méthodes
 
-13:15-14:45 | 1b | Le métier de formateur-bibliothécaire
+13:30-15:00 | 1b | Le métier de formateur-bibliothécaire
 
 15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
 
@@ -25,7 +25,7 @@
 
 10:30-12:00 | 3a | Discussions sur les sujets de la semaine précédente
 
-13:15-14:45 | 3b | Pédagogie: révision des notions de base
+13:30-15:00 | 3b | Pédagogie: révision des notions de base
 
 15:15-16:45 | 3c | Début Travaux Pratiques (TP): check-list [en groupe]
 
@@ -34,7 +34,7 @@
 
 10:30-12:00 | 4a | Adapter sa formation à son public
 
-13:15-14:45 | 4b | *Information Literacy* et autres *Literacies*
+13:30-15:00 | 4b | *Information Literacy* et autres *Literacies*
 
 15:15-16:45 | 4c | Coaching TP: Check-list et séquence [en groupe]
 
@@ -43,7 +43,7 @@
 
 10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (contexte académique)
 
-13:15-14:45 | 5b | Retour d'expérience: Véronique Avellan (contexte scolaire)
+13:30-15:00 | 5b | Retour d'expérience: Véronique Avellan (contexte scolaire)
 
 15:15-16:45 | 5c | Coaching TP: séquence [en groupe]
 
@@ -52,7 +52,7 @@
 
 10:30-12:00 | 6a | Faire passer des messages (`La culture informationnelle et les bibliothèques ?`)
 
-13:15-14:45 | 6b | Créer de l'interaction
+13:30-15:00 | 6b | Créer de l'interaction
 
 15:15-16:45 | 6c | Coaching TP: séquence [en groupe]
 
@@ -61,7 +61,7 @@
 
 10:30-12:00 | 7a | Préparer un cours présentiel
 
-13:15-14:45 | 7b | Préparer en cours en ligne
+13:30-15:00 | 7b | Préparer en cours en ligne
 
 15:15-16:45 | 7c | Coaching TP: supports [en groupe]
 
@@ -70,7 +70,7 @@
 
 10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (contexte lecture publique)
 
-13:15-14:45 | 8b | Trucs et astuces de formateur
+13:30-15:00 | 8b | Trucs et astuces de formateur
 
 15:15-16:45 | 8c | Coaching TP: supports [en groupe]
 
@@ -79,7 +79,7 @@
 
 10:30-12:00 | 9a | Evaluer les participants
 
-13:15-14:45 | 9b | Evaluer le/la formateur/formatrice
+13:30-15:00 | 9b | Evaluer le/la formateur/formatrice
 
 15:15-16:45 | 9c | Coaching TP: supports [en groupe]
 
@@ -88,6 +88,6 @@
 
 10:30-12:00 | 10a | Examen (1ère partie)
 
-13:15-14:45 | 10b | Examen (2e partie)
+13:30-15:00 | 10b | Examen (2e partie)
 
 15:15-16:45 | 10c | Examen (3e partie)
