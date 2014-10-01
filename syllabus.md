@@ -2,10 +2,6 @@
 
 *Raphaël Grolimund*, basé sur le cours d'*Iris Buunk* (2013-2014)<br/>
 <br/>
-**Légende**:<br/>
-contenu prévu<br/>
-`contenu à modifier`<br/>
-<br/>
 
 **30.10.2014 INTRODUCTION**
 
@@ -18,16 +14,16 @@ contenu prévu<br/>
 
 **6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** [TRAVAIL PERSONNEL]
 
---:-----:-- | 2a | Prendre connaissance du matériel mis à disposition [individuel]
+--:-----:-- | 2a | Choisir un des sujets de la semaine (OA, IL, etc.) et prendre connaissance du matériel mis à disposition [individuel]
 
---:-----:-- | 2b | Restituer le contenu du matériel lu/visionnné/etc. sous une forme différente [individuel]
+--:-----:-- | 2b | Restituer le contenu du matériel lu/visionnné/etc. sous une forme différente [individuel - BOF!]
 
 --:-----:-- | 2c | Choisir un sujet sur lequel donner une formation [en groupe]
 
 
 **13.11.2014 PREPARER LA FORMATION: GÉNÉRALITÉS**
 
-10:30-12:00 | 3a | La culture informationnelle et les bibliothèques
+10:30-12:00 | 3a | Discussions sur les sujets de la semaine précédente
 
 13:15-14:45 | 3b | Pédagogie: révision des notions de base
 
@@ -44,19 +40,18 @@ contenu prévu<br/>
 15:15-16:45 | 4c | Coaching TP: Check-list et séquence [en groupe]
 
 
-**27.11.2014 PREPARER LA FORMATION: METHODES**
+**27.11.2014 PREPARER LA FORMATION: PUBLICS**
 
 10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (contexte académique)
 
-13:15-14:45 | 5b | Faire passer des messages
+13:15-14:45 | 5b | Retour d'expérience: Véronique Avellan (contexte scolaire)
 
 15:15-16:45 | 5c | Coaching TP: séquence [en groupe]
 
 
 **4.12.2014 PREPARER LA FORMATION: METHODES**
-`Véronique Avellan ?`
 
-10:30-12:00 | 6a | `???`
+10:30-12:00 | 6a | Faire passer des messages (`La culture informationnelle et les bibliothèques ?`)
 
 13:15-14:45 | 6b | Créer de l'interaction
 
@@ -64,7 +59,6 @@ contenu prévu<br/>
 
 
 **11.12.2014 PREPARER LA FORMATION: OUTILS**
-`Véronique Avellan ?`
 
 10:30-12:00 | 7a | Préparer un cours présentiel
 
@@ -74,9 +68,8 @@ contenu prévu<br/>
 
 
 **18.12.2014 PREPARER LA FORMATION: OUTILS**
-`Karine Pasquier ?`
 
-10:30-12:00 | 8a | `???`
+10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (contexte lecture publique)
 
 13:15-14:45 | 8b | Trucs et astuces de formateur
 
