@@ -79,7 +79,7 @@
 
 10:30-12:00 | 9a | Evaluer les participants
 
-13:30-15:00 | 9b | Evaluer le/la formateur/formatrice
+13:30-15:00 | 9b | Evaluer le formateur
 
 15:15-16:45 | 9c | Coaching TP: supports [en groupe]
 
