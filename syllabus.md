@@ -12,7 +12,7 @@
 15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
 
 
-**6.11.2014 CONTENU DE LA FORMATION: COMPETENCES INFORMATIONNELLES** [TRAVAIL PERSONNEL]
+**6.11.2014 PRÉPARER LA FORMATION: CONTENUS a** [TRAVAIL PERSONNEL]
 
 --:-----:-- | 2a | Choisir un des sujets de la semaine (OA, IL, etc.) et prendre connaissance du matériel mis à disposition [individuel]
 
@@ -21,38 +21,38 @@
 --:-----:-- | 2c | Choisir un sujet sur lequel donner une formation [en groupe]
 
 
-**13.11.2014 PREPARER LA FORMATION: GÉNÉRALITÉS**
+**13.11.2014 PREPARER LA FORMATION: PUBLICS **
 
-10:30-12:00 | 3a | Discussions sur les sujets de la semaine précédente
+10:30-12:00 | 3a | *Information Literacy* et autres *Literacies*
 
-13:30-15:00 | 3b | Pédagogie: révision des notions de base
+13:30-15:00 | 3b | Adapter sa formation à son public
 
 15:15-16:45 | 3c | Début Travaux Pratiques (TP): check-list [en groupe]
 
 
-**20.11.2014 PREPARER LA FORMATION: PUBLICS**
+**20.11.2014 PREPARER LA FORMATION: OUTILS**
 
-10:30-12:00 | 4a | Adapter sa formation à son public
+10:30-12:00 | 4a | Préparer en cours en ligne
 
-13:30-15:00 | 4b | *Information Literacy* et autres *Literacies*
+13:30-15:00 | 4b | Enregistrer un cours en ligne
 
 15:15-16:45 | 4c | Coaching TP: Check-list et séquence [en groupe]
 
 
 **27.11.2014 PREPARER LA FORMATION: PUBLICS**
 
-10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (contexte académique)
+10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (Bibliothèque de l'Université de Genève - contexte académique)
 
-13:30-15:00 | 5b | Retour d'expérience: Véronique Avellan (contexte scolaire)
+13:30-15:00 | 5b | Retour d'expérience: Véronique Avellan (Bibliothèque cantonale et universitaire de Lausanne - contexte scolaire)
 
 15:15-16:45 | 5c | Coaching TP: séquence [en groupe]
 
 
 **4.12.2014 PREPARER LA FORMATION: METHODES**
 
-10:30-12:00 | 6a | Faire passer des messages (`La culture informationnelle et les bibliothèques ?`)
+10:30-12:00 | 6a | Faire passer des messages
 
-13:30-15:00 | 6b | Créer de l'interaction
+13:30-15:00 | 6b | Impliquer les participants
 
 15:15-16:45 | 6c | Coaching TP: séquence [en groupe]
 
@@ -61,14 +61,14 @@
 
 10:30-12:00 | 7a | Préparer un cours présentiel
 
-13:30-15:00 | 7b | Préparer en cours en ligne
+13:30-15:00 | 7b | Créer de l'interaction
 
 15:15-16:45 | 7c | Coaching TP: supports [en groupe]
 
 
-**18.12.2014 PREPARER LA FORMATION: OUTILS**
+**18.12.2014 PREPARER LA FORMATION: MÉTHODES **
 
-10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (contexte lecture publique)
+10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (Bibliothèques et discothèques municipales de la ville de Genève - contexte lecture publique)
 
 13:30-15:00 | 8b | Trucs et astuces de formateur
 
