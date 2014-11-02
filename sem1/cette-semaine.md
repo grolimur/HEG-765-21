@@ -20,7 +20,7 @@ dossier **img/**<br/>
 
 ## EXERCICES
 dossier **docs/**<br/>
-*documents servant aux exercices de la semaine*<br/>
+*documents servant aux exercices de la semaine*
 * **email-AR** (.odt + .pdf)<br/>
 * **email-MX** (.odt + .pdf)<br/>
 * **email-SV** (.odt + .pdf)<br/>
