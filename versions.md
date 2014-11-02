@@ -1,7 +1,7 @@
 # Versions
 
 La numérotation des versions de ce cours suit la logique suivante.
-Cette logique est inspirée de la gestion sémantique des versions (semver.org), sans toutefois la respecter jusqu'au bout.
+Cette logique est inspirée de la gestion sémantique des versions ([semver.org] (http://semver.org/)), sans toutefois la respecter jusqu'au bout.
 
 ## X.Y.Z
 
