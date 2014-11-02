@@ -21,10 +21,6 @@ dossier **img/**<br/>
 ## EXERCICES
 dossier **docs/**<br/>
 *documents servant aux exercices de la semaine*
-* **email-AR** (.odt + .pdf)<br/>
-* **email-MX** (.odt + .pdf)<br/>
-* **email-SV** (.odt + .pdf)<br/>
-* **sem-4-5-6-vue-_synthetique-modules-2013.pdf**
 
 **exercice-choix-modules.md**<br/>
 *présentation de l'exercice introduit dans la slide 4 du fichier formation-usagers-bib-S01-E02*
