@@ -32,7 +32,7 @@ Sauf mention contraire, tous les contenus sont à attribuer à Raphaël Grolimun
 Merci de créditer de la façon suivante (ou de façon à indiquer les mêmes informations):
 
 `CC BY SA 4.0 / Raphaël Grolimund (Haute école de gestion de Genève)`<br/>
-`Accès à tous les contenus et documents préparatoires: [http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque)`.
+`Accès à tous les contenus et documents préparatoires: http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque`.
 
 Certains contenus ont été produits par des interenants externes et lorsqu'ils ont donné leur accord, ils sont inclut ici.
 Si vous réutilisez un de ces documents, les auteurs eux-mêmes (et eux seuls!) sont à créditer.
@@ -41,7 +41,7 @@ Les contributions diverses sont indiquées dans la section *auteur et contribute
 Dans un tel cas, merci de créditer aussi la personne ayant contribué:
 
 `CC BY SA 4.0 / Raphaël Grolimund avec la contribution de XXX YYY (Haute école de gestion de Genève)`<br/>
-`Accès à tous les contenus et documents préparatoires: [http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque)`.
+`Accès à tous les contenus et documents préparatoires: http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque`.
 
 
 ## Structure du cours
