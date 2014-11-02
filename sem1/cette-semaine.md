@@ -28,6 +28,9 @@ dossier **docs/**<br/>
 **exercice-comp-ID.md**<br/>
 *présentation de l'exercice introduit dans la slide 2 du fichier formation-usagers-bib-S01-E02*
 
+**exercice-def-formation.md**<br/>
+*présentation de l'exercice introduit dans les slides 2-3 du fichier formation-usagers-bib-S01-E03*
+
 **competences-non-reconnues.JPG**<br/>
 **competences-reconnues.JPG**<br/>
 *photos du résultat final de l'exercice décrit dans exercice-comp-ID.md*
