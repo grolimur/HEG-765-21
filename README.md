@@ -1,12 +1,12 @@
 # Formation des usagers en bibliotheques
 
-*Ceci n'est pas un logiciel ou un site web.*
+*Ceci n'est pas un logiciel ou un site web.*<br/>
 *Ceci est un cours.*
 
-Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21n).
+Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21n).<br/>
 Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 3e année de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
 
-site web de la HEG: [www.hesge.ch/heg] (http://www.hesge.ch/heg)
+site web de la HEG: [www.hesge.ch/heg] (http://www.hesge.ch/heg)<br/>
 infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-science/information-documentaire)
 
 
@@ -16,12 +16,12 @@ infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-sci
 Raphaël Grolimund (Haute école de gestion de Genève - filière Information documentaire)
 
 
-## Version `**0.9**`
+## Version `0.9`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/versions.md).
 
 
-## Licence `**CC BY-SA**`
+## Licence `CC BY-SA`
 
 Vous pouvez réutiliser l'intégralité de ce cours pour autant que vous respectiez les termes de la licence CC BY-SA et que vous créditiez correctement les auteurs des documents produits dans le cadre de ce cours.
 La licence complète est disponible ici: [creativecommons.org/licenses/by-sa/4.0/deed.fr] (http://creativecommons.org/licenses/by-sa/4.0/deed.fr)
@@ -31,7 +31,7 @@ En voici un résumé:
 Sauf mention contraire, tous les contenus sont à attribuer à Raphaël Grolimund. Dans la mesure où ce cours est donné dans le cadre de la formation dispensé par la Haute école de gestion de Genève, elle doit être mentionnée également.
 Merci de créditer de la façon suivante (ou de façon à indiquer les mêmes informations):
 
-`CC BY SA 4.0 / Raphaël Grolimund (Haute école de gestion de Genève)
+`CC BY SA 4.0 / Raphaël Grolimund (Haute école de gestion de Genève)<br/>
 Accès à tous les contenus et documents préparatoires: [cest.la/765-21] (cest.la/765-21)`.
 
 Certains contenus ont été produits par des interenants externes et lorsqu'ils ont donné leur accord, ils sont inclut ici.
@@ -40,7 +40,7 @@ Si vous réutilisez un de ces documents, les auteurs eux-mêmes (et eux seuls!) 
 Les contributions diverses sont indiquées dans la section *auteur et contributeurs* au début de ce README, ainsi que sur les contenus associés.
 Dans un tel cas, merci de créditer aussi la personne ayant contribué:
 
-`CC BY SA 4.0 / Raphaël Grolimund avec la contribution de XXX YYY (Haute école de gestion de Genève)
+`CC BY SA 4.0 / Raphaël Grolimund avec la contribution de XXX YYY (Haute école de gestion de Genève)<br/>
 Accès à tous les contenus et documents préparatoires: [cest.la/765-21] (cest.la/765-21)`.
 
 
@@ -62,7 +62,7 @@ Chaque dossier hebdomadaire contient également un fichier décrivant les activi
 
 ## Bibliographie
 
-La bibliographie du cours se trouve sur [www.zotero.org/groups/HEG-765-2n] (https://www.zotero.org/groups/HEG-765-2n).
+La bibliographie du cours se trouve sur [www.zotero.org/groups/heg-765-2n/items] (https://www.zotero.org/groups/heg-765-2n/items).
 
 
 ## Contributions
@@ -77,7 +77,7 @@ Les contributions peuvent intervnir à plusieurs niveaux (liste indicative):
 * proposition de modifications des grilles d'évaluation
 * proposition de sujets à traiter
 * corrections de faute d'orthographe ou d'imprécisions
-etc.
+* etc.
 
 ### Intervenants externes
 Le cours inclut des retours d'expérience d'intervenants externes. Lorsque ceux-ci sont d'accord, leur support de présentation sont inclus ici.

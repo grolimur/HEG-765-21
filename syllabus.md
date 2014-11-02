@@ -12,7 +12,7 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
 
 
-**6.11.2014 PRÉPARER LA FORMATION: CONTENUS** [TRAVAIL PERSONNEL]
+**6.11.2014 PRÉPARER LA FORMATION: CONTENUS**
 
 --:-----:-- | 2a | Choisir un des sujets de la semaine (*Open Access*, *Information Literacy*) [individuel]
 
