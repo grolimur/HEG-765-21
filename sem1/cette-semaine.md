@@ -1,6 +1,6 @@
 # AU MENU (SEMAINE 01)
 
-Première semaine de cours.
+`Première semaine de cours`
 
 ## THÈME
 Introduction au cours
