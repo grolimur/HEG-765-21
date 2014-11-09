@@ -1,0 +1,22 @@
+SOURCES
+-------
+
+History (CC BY  John Caserta)		http://thenounproject.com/term/history/11223/
+United-States (CC BY Monika Ciapala)	http://thenounproject.com/term/united-states/3405/
+Australia (CC BY Ted Grajeda)		http://thenounproject.com/term/australia/22645/
+New-Zealand (CC BY Ted Grajeda)		http://thenounproject.com/term/new-zealand/22648/
+Germany (CC BY Ted Grajeda)		http://thenounproject.com/term/germany/22652/
+France (CC BY Monika Ciapala)		http://thenounproject.com/term/france/3416/
+Switzerland (CC BY Alen Krummenacher)	http://thenounproject.com/term/switzerland/15771/
+Drawing (CC BY Takao Umehara)		http://thenounproject.com/term/drawing/62361/
+Equalizer (CC BY Paul Kolling)		http://thenounproject.com/term/equalizer/9091/
+Hands (CC BY Marco Galtarossa)		http://thenounproject.com/term/hands/66686/
+Student (CC BY  iconsmind.com)		http://thenounproject.com/term/student/71637/
+Superhero (CC BY Simon Child)		http://thenounproject.com/term/superhero/15013/
+Wonder-Woman (CC BY Ben King)		http://thenounproject.com/term/wonder-woman/23141/
+
+Mozilla_icon (GNU GPL Alexander Moore)	http://findicons.com/icon/225770/mozilla_icon
+
+InfoLit (CC0 Edgar Luy Perez)
+
+
