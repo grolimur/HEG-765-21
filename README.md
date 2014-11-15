@@ -16,7 +16,7 @@ infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-sci
 Raphaël Grolimund (Haute école de gestion de Genève - filière Information documentaire)
 
 
-## Version `1.1.3`
+## Version `1.2`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/versions.md).
 
