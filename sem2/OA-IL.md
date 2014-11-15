@@ -4,7 +4,7 @@
 ## Open Access
 
 **Lectures**<br/>
-http://www.opensocietyfoundations.org/openaccess/read (Déclaration de Berlin)<br/>
+http://www.opensocietyfoundations.org/openaccess/read (Initiative de Budapest)<br/>
 http://openaccess.inist.fr/?Initiative-de-Budapest-pour-l (trad. française de l'Initiative de Budapest)<br/>
 http://www.snf.ch/fr/leFNS/points-de-vue-politique-de-recherche/open-access/Pages/default.aspx (Fonds national suisse de la recherche scientifique)<br/>
 http://www.nature.com/news/open-access-deal-for-particle-physics-1.11468 (Open Access dans le domaine de la physique des particules)<br/>
