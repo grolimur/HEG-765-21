@@ -1,4 +1,4 @@
-## COMPÉTENCES DES BIBLIOTHÉCAIRES
+## DÉFINIR UNE FORMATION
 
 ### Objectif
 Faire réfléchir les étudiants sur les informations nécessaires avant de commencer à travailler sur une formation<br/>

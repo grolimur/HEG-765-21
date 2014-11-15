@@ -1,4 +1,4 @@
-## COMPÉTENCES DES BIBLIOTHÉCAIRES
+## CHOIX DES MODULES DES FUTURS SPÉCIALISTES ID
 
 ### Objectif
 Mettre en lumière la diversité des profils des étudiants (un diplôme, plusieurs profils)<br/>
