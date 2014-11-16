@@ -32,11 +32,11 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 
 **20.11.2014 PREPARER LA FORMATION: OUTILS**
 
-10:30-12:00 | 4a | Préparer en cours
+10:30-12:00 | 4a | Préparer un cours
 
-13:30-15:00 | 4b | Enregistrer un cours en ligne
+13:30-15:00 | 4b | Enregistrer un cours en vidéo
 
-15:15-16:45 | 4c | Coaching TP: Check-list et séquence [en groupe]
+15:15-16:45 | 4c | Coaching TP: séquence [en groupe]
 
 
 **27.11.2014 PREPARER LA FORMATION: PUBLICS**
