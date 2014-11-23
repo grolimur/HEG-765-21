@@ -66,7 +66,7 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 15:15-16:45 | 7c | Coaching TP: supports [en groupe]
 
 
-**18.12.2014 PREPARER LA FORMATION: MÉTHODES **
+**18.12.2014 PREPARER LA FORMATION: MÉTHODES**
 
 10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (Bibliothèques et discothèques municipales de la ville de Genève - lecture publique)
 
