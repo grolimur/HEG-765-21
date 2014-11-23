@@ -3,9 +3,9 @@
 `Préparer une formation: Publics`
 
 ## THÈMES
-Information Literacy et autres littératies
-Adapter sa formation à son public
-TP: créer une check-list pour sa formation (voir [evaluations] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/evaluations/evaluations.md))
+Information Literacy et autres littératies<br/>
+Adapter sa formation à son public<br/>
+TP: créer une check-list pour sa formation (voir [evaluations] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/evaluations/evaluations.md))<br/>
 
 ## SUPPORTS
 **formation-usagers-bib-S03-E01** (.odp + .pdf)<br/>

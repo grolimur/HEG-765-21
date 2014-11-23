@@ -3,9 +3,9 @@
 `Préparer une formation: Outils`
 
 ## THÈMES
-Préparer une formation
-Enregistrer une formation en vidéos (exercices pratiques)
-TP: créer une séquence de formation
+Préparer une formation<br/>
+Enregistrer une formation en vidéos (exercices pratiques)<br/>
+TP: créer une séquence de formation<br/>
 
 ## SUPPORTS
 **formation-usagers-bib-S04-E01a** (.odp + .pdf)<br/>
