@@ -13,10 +13,16 @@ infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-sci
 ## Auteur et contributeurs
 
 ### Auteur
-Raphaël Grolimund (Haute école de gestion de Genève - filière Information documentaire)
+Raphaël Grolimund (Haute école de gestion de Genève - filière Information documentaire)<br/>
+[raphael.grolimund@hesge.ch] (mailto:raphael.grolimund@hesge.ch)<br/>
+
+## Contributeur
+Laure Mellifluo (Univeristé de Genève)<br/>
+[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)<br/>
+*La formation documentaire en sciences à l'Université de Genève*: [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem4/supports)
 
 
-## Version `1.3.1`
+## Version `1.4`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/versions.md).
 
@@ -42,6 +48,11 @@ Dans un tel cas, merci de créditer aussi la personne ayant contribué:
 
 `CC BY SA 4.0 / Raphaël Grolimund avec la contribution de XXX YYY (Haute école de gestion de Genève)`<br/>
 `Accès à tous les contenus et documents préparatoires: http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque`.
+
+Si vous ne reprenez qu'une contributions externes, ne créditez que l'intervenant externe:
+
+`Licence WWW / XXX YYY (Institution ZZZ)`<br/>
+`Présenté dans le cadre du cours [Formation des usagers en bibliothèques] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque)`.
 
 
 ## Structure du cours
