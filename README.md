@@ -19,7 +19,7 @@ Raphaël Grolimund (Haute école de gestion de Genève - filière Information do
 ## Contributeur
 Laure Mellifluo (Univeristé de Genève)<br/>
 [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)<br/>
-*La formation documentaire en sciences à l'Université de Genève*: [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/supports)
+*La formation documentaire en sciences à l'Université de Genève*: [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5)
 
 
 ## Version `1.4`
