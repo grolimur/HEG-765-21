@@ -50,7 +50,7 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 
 **4.12.2014 PREPARER LA FORMATION: METHODES**
 
-10:30-12:00 | 6a | Faire passer des messages
+10:30-12:00 | 6a | Faire passer le message
 
 13:30-15:00 | 6b | Impliquer les participants
 
@@ -59,11 +59,11 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 
 **11.12.2014 PREPARER LA FORMATION: OUTILS**
 
-10:30-12:00 | 7a | Inclure des activités
+10:30-12:00 | 7a | Créer de l'interaction
 
-13:30-15:00 | 7b | Créer de l'interaction
+13:30-15:00 | 7b | Former hors des formations
 
-15:15-16:45 | 7c | Coaching TP: supports [en groupe]
+15:15-16:45 | 7c | Coaching TP: séquence ou supports [en groupe]
 
 
 **18.12.2014 PREPARER LA FORMATION: MÉTHODES**
