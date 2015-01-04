@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<!-- =====  Locator Badge  ===== -->
+<!-- *************************** -->
+<!-- Auteur  : Raphaël Grolimund -->
+<!-- Date    : 2014-12-14        -->
+<!-- raphael.grolimund@hesge.ch  -->
+<!-- @grolimur                   -->
+<!-- Licence : CC BY-SA 4.0      -->
+
+<!-- inspired by the Marathon game logo by Bungie (www.bungie.net) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="500" height="500" viewBox="0 0 1000 1000">
+<!-- white background -->
+<rect x="0" y="0" width="1000" height="1000" style="fill:white;" />
+
+<circle cx="500" cy="500" r="460" style="fill:#00FCFC;" />
+<circle cx="500" cy="500" r="450" style="fill:white;" />
+<circle cx="500" cy="500" r="450" style="fill:black;" />
+<rect x="475" y="650" width="50" height="350" style="fill:white;" />
+<circle cx="500" cy="400" r="250" style="stroke:white; stroke-width:30px; fill:black;" />
+<circle cx="500" cy="400" r="240" style="stroke:#00FCFC; stroke-width:10px; fill:black;" />
+<!-- "Map placeholder on world grid" by Icons8 (CC BY 3.0) / http://www.flaticon.com/free-icon/map-placeholder-on-world-grid_24449 -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="350px" y="240px"
+	 width="300px" height="300px" viewBox="0 0 26 26" enable-background="new 0 0 26 26" xml:space="preserve">
+<path fill="white" d="M23.213,9.226c-0.263,0.508-0.525,1.021-0.768,1.531c0.25,0.715,0.426,1.464,0.504,2.243H21.63
+	c-0.071,0.335-0.118,0.665-0.118,0.984V15h1.438c-0.145,1.447-0.605,2.8-1.303,4h-2.933c0.22-0.938,0.356-1.96,0.446-3.016h-0.674
+	H17.18c-0.099,1.094-0.273,2.105-0.512,3.016H9.332c-0.307-1.177-0.515-2.523-0.58-4h7.736v-1.016c0-0.318-0.047-0.648-0.118-0.984
+	H8.752c0.065-1.477,0.273-2.823,0.58-4h5.361c-0.35-0.678-0.685-1.342-0.965-2h-3.711C10.844,5.113,11.951,4,13,4
+	c0-0.695,0.125-1.361,0.344-1.982C13.229,2.014,13.116,2,13,2C6.383,2,1,7.383,1,14s5.383,12,12,12s12-5.383,12-12
+	c0-2.01-0.503-3.903-1.38-5.569C23.486,8.694,23.352,8.959,23.213,9.226z M8.878,4.899C8.503,5.52,8.169,6.224,7.881,7h-2.01
+	C6.729,6.126,7.749,5.413,8.878,4.899z M4.354,9h2.932c-0.288,1.23-0.473,2.575-0.531,4H3.051C3.195,11.553,3.656,10.2,4.354,9z
+	 M4.354,19c-0.697-1.2-1.158-2.553-1.303-4h3.703c0.059,1.425,0.243,2.77,0.531,4H4.354z M5.871,21h2.01
+	c0.288,0.775,0.622,1.48,0.997,2.102C7.749,22.587,6.729,21.874,5.871,21z M13,24c-1.049,0-2.156-1.113-2.982-3h5.964
+	C15.156,22.887,14.049,24,13,24z M17.122,23.102c0.375-0.621,0.709-1.324,0.997-2.102h2.01
+	C19.271,21.874,18.251,22.587,17.122,23.102z"/>
+<g>
+	<g>
+		<path fill="white" d="M19,0c-2.209,0-4,1.793-4,4c0,2.665,3.488,6.321,3.488,9.984h1.021C19.512,10.321,23,6.771,23,4
+			C23,1.793,21.209,0,19,0z M19,6.061c-1.139,0-2.061-0.92-2.061-2.061c0-1.138,0.922-2.061,2.061-2.061S21.061,2.862,21.061,4
+			C21.061,5.141,20.139,6.061,19,6.061z"/>
+	</g>
+</g>
+</svg>
+<!-- HEG ID, n° cours, année -->
+<text x="550px" y="750px" fill="#FFF" style="font-size: 50px; font-family:serif;">
+<tspan>2014</tspan>
+<tspan x="550px" y="810px">2015</tspan>
+</text>
+<text x="450px" y="750px" fill="#00FCFC" style="font-size: 50px; font-family:serif; text-anchor: end;">
+<tspan>heg ID</tspan>
+<tspan x="450px" y="810px">765-21</tspan>
+</text>
+
+</svg>

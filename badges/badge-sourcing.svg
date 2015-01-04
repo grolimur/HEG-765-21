@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<!-- ====  Sourcing  Badge  ==== -->
+<!-- *************************** -->
+<!-- Auteur  : Raphaël Grolimund -->
+<!-- Date    : 2014-11-23        -->
+<!-- raphael.grolimund@hesge.ch  -->
+<!-- @grolimur                   -->
+<!-- Licence : CC BY-SA 4.0      -->
+
+<!-- inspired by the Marathon game logo by Bungie (www.bungie.net) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="500" height="500" viewBox="0 0 1000 1000">
+<!-- white background -->
+<rect x="0" y="0" width="1000" height="1000" style="fill:white;" />
+
+<circle cx="500" cy="500" r="460" style="fill:#0f5;" />
+<circle cx="500" cy="500" r="450" style="fill:white;" />
+<circle cx="500" cy="500" r="450" style="fill:black;" />
+<rect x="475" y="650" width="50" height="350" style="fill:white;" />
+<circle cx="500" cy="400" r="250" style="stroke:white; stroke-width:30px; fill:black;" />
+<circle cx="500" cy="400" r="240" style="stroke:#0f5; stroke-width:10px; fill:black;" />
+<!-- clock based on "Back in time" by Daniel Bruce (CC BY 3.0) / http://www.flaticon.com/free-icon/back-in-time_3712 -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="360px" y="350px"
+	 width="240px" height="240px" viewBox="0 0 94 82" style="enable-background:new 0 0 94 82;" xml:space="preserve">
+<path d="M53.131,0C30.902,0,12.832,17.806,12.287,39.976H0l18.393,20.5l18.391-20.5H22.506C23.045,23.468,36.545,10.25,53.131,10.25
+	c16.93,0,30.652,13.767,30.652,30.75S70.061,71.75,53.131,71.75c-6.789,0-13.059-2.218-18.137-5.966l-7.029,7.521
+	C34.904,78.751,43.639,82,53.131,82C75.703,82,94,63.645,94,41S75.703,0,53.131,0z M49.498,19v23.45l15.027,15.024l4.949-4.949
+	L56.5,39.55V19H49.498z" fill="white"/>
+</svg>
+<!-- "Left quote" by Freepik (CC BY 3.0) / http://www.flaticon.com/free-icon/left-quote_56937 -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="295px" y="300px"
+	 width="100px" height="100px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<path d="M51.8,31.8c3.1-1.3,4.4-5,3-8l-4.9-10.3c-1.4-2.9-4.8-4.2-7.8-2.9c-8.5,3.6-15.8,8.3-21.6,14C13.4,31.3,8.6,39,6,47.5
+	C3.4,56.1,2,67.8,2,82.7v30.7c0,3.3,2.7,6,6,6h39.3c3.3,0,6-2.7,6-6V74.1c0-3.3-2.7-6-6-6H28.5c0.2-10.1,2.6-18.2,7-24.3
+	C39.1,38.9,44.5,34.9,51.8,31.8z" fill="white"/>
+<path d="M122.4,31.8c3.1-1.3,4.4-5,3-8l-4.9-10.2c-1.4-2.9-4.8-4.2-7.8-2.9c-8.4,3.6-15.6,8.3-21.5,13.9c-7.1,6.8-12,14.5-14.6,23
+	C74,56,72.7,67.7,72.7,82.7v30.7c0,3.3,2.7,6,6,6h39.3c3.3,0,6-2.7,6-6V74.1c0-3.3-2.7-6-6-6H99.1c0.2-10.1,2.6-18.2,7-24.3
+	C109.7,38.9,115.1,34.9,122.4,31.8z" fill="white"/>
+</svg>
+<!-- "Right quote sign" by Freepik (CC BY 3.0) / http://www.flaticon.com/free-icon/right-quote-sign_56826 -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="600px" y="300px"
+	 width="100px" height="100px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<path d="M938,69.3H634c-27.6,0-50,22.4-50,50v304c0,27.6,22.4,50,50,50h145.5c-1.9,79.6-20.4,143.3-55.4,191.2
+	c-27.6,37.8-69.4,69.1-125.3,93.8C573.1,769.6,562,800,574,825.4l36,76c11.6,24.4,40.3,35.1,65.1,24.4
+	C741.3,897.2,797.2,861,842.8,817c55.6-53.7,93.7-114.3,114.3-181.9c20.6-67.6,30.9-159.8,30.9-276.8v-239
+	C988,91.7,965.6,69.3,938,69.3z" fill="white"/>
+<path d="M119,925.6c65.4-28.5,121-64.7,166.9-108.6c56.1-53.7,94.4-114.1,115-181.2c20.6-67.1,30.9-159.6,30.9-277.5v-239
+	c0-27.6-22.4-50-50-50h-304c-27.6,0-50,22.4-50,50v304c0,27.6,22.4,50,50,50h145.5c-1.9,79.6-20.4,143.3-55.4,191.2
+	c-27.6,37.8-69.4,69.1-125.3,93.8C16.9,769.6,5.8,800,17.8,825.4l35.9,75.8C65.3,925.6,94.2,936.4,119,925.6z" fill="white"/>
+</svg>
+<!-- HEG ID, n° cours, année -->
+<text x="550px" y="750px" fill="#FFF" style="font-size: 50px; font-family:serif;">
+<tspan>2014</tspan>
+<tspan x="550px" y="810px">2015</tspan>
+</text>
+<text x="450px" y="750px" fill="#0f5" style="font-size: 50px; font-family:serif; text-anchor: end;">
+<tspan>heg ID</tspan>
+<tspan x="450px" y="810px">765-21</tspan>
+</text>
+
+</svg>
