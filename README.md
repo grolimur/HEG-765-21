@@ -26,7 +26,7 @@ Adam Edwards et Vanessa Hill (Middlesex University Library)<br/>
 [ThinkingAboutKeywords1stYearFR.docx] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/) (**CC BY-NC-SA 3.0**)<br/>
 version anglaise disponible sur [http://dspace.jorum.ac.uk/xmlui/handle/10949/18121] (http://dspace.jorum.ac.uk/xmlui/handle/10949/18121)
 
-## Version `1.7.1`
+## Version `1.8`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/versions.md).
 
