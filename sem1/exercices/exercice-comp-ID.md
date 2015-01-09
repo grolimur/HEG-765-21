@@ -1,16 +1,16 @@
-## COMPÉTENCES DES BIBLIOTHÉCAIRES
+## COMP√âTENCES DES BIBLIOTH√âCAIRES
 
 ### Objectif
-Amener les étudiants regarder leur futur métier de l'extérieur et ensuite se faire un avis sur le bien-fondé ou non de l'image que véhiculent les spécialistes ID<br/>
-Observer s'ils placent la formation dans les compétences reconnues ou non
+Amener les √©tudiants regarder leur futur m√©tier de l'ext√©rieur et ensuite se faire un avis sur le bien-fond√© ou non de l'image que v√©hiculent les sp√©cialistes ID<br/>
+Observer s'ils placent la formation dans les comp√©tences reconnues ou non
 
 ### Instructions
-Les étudiants doivent indiquer les compétences des spécialistes ID qui, de leur point de vue, sont reconnues à l'extérieur sur un post-it vert et celles qui ne sont pas reconnues à l'extérieur sur un post-it orange.<br/>
-Lorsqu'ils ont terminés, les étudiants viennent coller les post-it par couleur au tableau.
+Les √©tudiants doivent indiquer les comp√©tences des sp√©cialistes ID qui, de leur point de vue, sont reconnues √† l'ext√©rieur sur un post-it vert et celles qui ne sont pas reconnues √† l'ext√©rieur sur un post-it orange.<br/>
+Lorsqu'ils ont termin√©s, les √©tudiants viennent coller les post-it par couleur au tableau.
 
-Les étudiants peuvent discuter entre eux, car ces post-it servent de base pour une discussion du rôle et des compétences des spécialistes ID.
+Les √©tudiants peuvent discuter entre eux, car ces post-it servent de base pour une discussion du r√¥le et des comp√©tences des sp√©cialistes ID.
 
 
-### Durée
-10 min. env. pour rédiger les post-it<br/>
-20 min. env. pour la discussion (cette durée peut évidemment beaucoup varier)
+### Dur√©e
+10 min. env. pour r√©diger les post-it<br/>
+20 min. env. pour la discussion (cette dur√©e peut √©videmment beaucoup varier)

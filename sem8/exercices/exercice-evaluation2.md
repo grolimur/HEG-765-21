@@ -1,14 +1,14 @@
 ## EXERCICE D'EVALUATION D'UN COURS
 
 ### Objectif
-Tester un type de formulaire d'évaluation
+Tester un type de formulaire d'√©valuation
 
 ### Instructions
-Demander aux étudiants d'évaluer le cours du matin à l'aide du formulaire fourni.<br/>
-Les réponses et le formulaire lui-même sont utilisés le 8 janvier 2015 pour parler de l'évaluer d'une formation.
+Demander aux √©tudiants d'√©valuer le cours du matin √† l'aide du formulaire fourni.<br/>
+Les r√©ponses et le formulaire lui-m√™me sont utilis√©s le 8 janvier 2015 pour parler de l'√©valuer d'une formation.
 
-### Matériel
+### Mat√©riel
 [2014-12-18-evaluation.odt] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem8/exercices/docs/2014-12-18-evaluation.odt)<br/>
 
-### Durée
+### Dur√©e
 15 min.

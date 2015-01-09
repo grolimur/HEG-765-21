@@ -77,9 +77,9 @@ syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné pa
 
 **08.01.2015 EVALUER LA FORMATION**
 
-10:30-12:00 | 9a | Evaluer les participants
+10:30-12:00 | 9a | Evaluer
 
-13:30-15:00 | 9b | Evaluer le formateur
+13:30-15:00 | 9b | Bilan du cours
 
 15:15-16:45 | 9c | Coaching TP: supports [en groupe]
 
