@@ -17,8 +17,8 @@ Les vidéos restent par contre entre l'enseignant et les étudiants. Comme elles
 
 ## ORGANISATION GÉNÉRALE DE LA JOURNÉE
 
-[formation-liste-passage-generique.pdf] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem10/formation-liste-passage-generique.pdf) (version PDF)   
-[formation-liste-passage-generique.odt] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem10/formation-liste-passage-generique.odt) (fichier source .odt)   
+[formation-liste-passage-generique.pdf] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/semX/formation-liste-passage-generique.pdf) (version PDF)   
+[formation-liste-passage-generique.odt] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/semX/formation-liste-passage-generique.odt) (fichier source .odt)   
 
 Les étudiants sont présents pendant la moitié de la journée où ils donnent leur formation. Le reste du temps, ils font office de participants pour les formations de leur camarades.
 Ils peuvent ainsi voir le résultat du travail de la moitié de leur camarade sans devoir passer toute la journée en examen.   
