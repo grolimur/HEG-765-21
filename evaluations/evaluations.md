@@ -30,9 +30,9 @@ Formation à donner en groupe de 2 ou 3 personnes.
 *durée*: 45 min.   
 
 À des fins pédagogiques, la formation est filmée. La vidéo n'est toutefois divulguée qu'aux membres du groupe.   
-À des fins pédagogiques, chaque memebre du groupe auto-évalue le groupe après la formation selon la même grille que l'enseignant.   
+À des fins pédagogiques, chaque memebre du groupe s'auto-évaluent après la formation selon la même grille que l'enseignant.   
 La formation est donnée en présence d'autres étudiants du cours. Ces derniers évaluent aussi la formation, toujours selon la même grille.   
 Chaque groupe reçoit les grilles d'évaluation de l'enseignant, des autres étudiants et leurs auto-évaluations.   
 Cela permet aux étudiants de comparer leur propre point de vue à ceux de la salle et de l'enseignant.   
 
-Toutefois, **seule l'évaluation de l'enseignant compte** pour l'attribution de la note du cours.
+Notez que **seule l'évaluation de l'enseignant compte** pour l'attribution de la note du cours.
