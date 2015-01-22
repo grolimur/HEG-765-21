@@ -8,9 +8,9 @@ Bibliothécaire scolaire, un métier spécifique: la démarche du Canton de Vaud
 TP: créer une séquence de formation
 
 ## SUPPORTS
-**2014_presentation_HEG_LM** (.pptx + .pdf)<br/>
+**2014_presentation_HEG_LM** (.pptx + .pdf)   
 *présentation de la formation documentaire dans un contexte académique par **Laure Mellifluo** (Université de Genève)*
 *document sous licence CC BY-SA à créditer au nom de Laure Mellifluo*
 
-**formation-usagers-bib-S05-E02** (support réservé aux étudiants)<br/>
+**formation-usagers-bib-S05-E02** (support réservé aux étudiants)   
 *présentation de la formation dans un contexte scolaire par Véronique Avellan (directrice adjointe Bibliothèque cantonale et universitaire Lausanne, coordinationdes bibliothèques scolaires vaudoises)*

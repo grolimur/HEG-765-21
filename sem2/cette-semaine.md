@@ -3,7 +3,7 @@
 `Préparer une formation: les contenus`
 
 ## THÈMES
-Information Literacy<br/>
+Information Literacy   
 Open Access
 
 ## SUPPORTS
@@ -13,9 +13,9 @@ Pas de support cette semaine, car pas de cours
 Pas d'exercice cette semaine, car pas de cours
 
 ## ACTIVITÉS
-Cette semaine, les étudiants doivent travailler seuls.<br/>
-Après avoir choisi un des deux thèmes, ils prennent connaissance des contenus mis à leur disposition (décrit dans le fichier [OA-IL.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/sem2/OA-IL.md)).<br/>
+Cette semaine, les étudiants doivent travailler seuls.   
+Après avoir choisi un des deux thèmes, ils prennent connaissance des contenus mis à leur disposition (décrit dans le fichier [OA-IL.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/sem2/OA-IL.md)).   
 Les connaissance acquises servent de base pour le cours suivant.
 
-Par ailleurs, les étudiants forment des groupes et choisissent un sujet en vue de la formation qu'ils devront donner à la fin du semestre.<br/>
+Par ailleurs, les étudiants forment des groupes et choisissent un sujet en vue de la formation qu'ils devront donner à la fin du semestre.   
 Les groupes feront valider leur sujet la semaine suivante.
