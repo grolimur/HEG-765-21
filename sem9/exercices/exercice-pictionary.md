@@ -18,3 +18,7 @@ Si les étudiants ne couvrent pas tous les points que l'enseignant souhaite abor
 ### Durée
 réflexion: 3 min.
 pictionary: le temps que vous voulez
+
+### Remerciement
+L'idée originale est Noémi Cobolet, ma collègue dans l'équipe de formation de la Bibliothèque de l'EPFL.
+Merci Noémi pour cette idée brillante!
