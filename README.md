@@ -25,8 +25,8 @@ Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@esbussigny.ch] 
 *guest speaker*
 
 Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch] (mailto:igor.milhit@hesge.ch)   
-[contributeur Github] (https://github.com/iGormilhit)   
-corrections (format md, typo)
+*[contributeur Github] (https://github.com/iGormilhit)*   
+*corrections (format md, typo)*
 
 
 ## Version `2.0RC`
