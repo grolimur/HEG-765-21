@@ -18,8 +18,8 @@ Raphaël Grolimund
 [raphael.grolimund@hesge.ch] (mailto:raphael.grolimund@hesge.ch)   
 
 ## Contributeurs
-Audrey Bellier (Univeristé de Genève) [Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
-Laure Mellifluo (Univeristé de Genève) [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
+Audrey Bellier (Université de Genève) [Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
+Laure Mellifluo (Université de Genève) [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
 *guest speakers*
 
 Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@esbussigny.ch] (mailto:alexe.savioz@esbussigny.ch)   
