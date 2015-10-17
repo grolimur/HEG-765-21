@@ -4,7 +4,7 @@
 *Ceci est un cours.*
 
 Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21n).   
-Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 3e année de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
+Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 5e semestre (7e ou 9e pour étudiants à temps partiel) de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
 
 site web de la HEG : [www.hesge.ch/heg] (http://www.hesge.ch/heg)   
 infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-science/information-documentaire)
@@ -18,9 +18,9 @@ Raphaël Grolimund (Haute école de gestion de Genève - filière Information do
 
 ## Contributeurs
 Audrey Bellier (Univeristé de Genève)   
-[Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)
+[Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
 Laure Mellifluo (Univeristé de Genève)   
-[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)
+[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
 *La formation documentaire en sciences à l'Université de Genève* : [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5)
 
 Adam Edwards et Vanessa Hill (Middlesex University Library)   
