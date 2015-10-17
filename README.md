@@ -13,7 +13,7 @@ infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-sci
 ## Auteur et contributeurs
 
 ### Auteur
-Raphaël Grolimund (Haute école de gestion de Genève - filière Information documentaire)   
+Raphaël Grolimund, enseignant vacataire à la Haute école de gestion de Genève, filière Information documentaire   
 [raphael.grolimund@hesge.ch] (mailto:raphael.grolimund@hesge.ch)   
 
 ## Contributeurs
