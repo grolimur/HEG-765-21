@@ -19,12 +19,8 @@ Raphaël Grolimund (Haute école de gestion de Genève - filière Information do
 ## Contributeurs
 Audrey Bellier (Univeristé de Genève) [Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
 Laure Mellifluo (Univeristé de Genève) [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
-*La formation documentaire en sciences à l'Université de Genève* : [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5)
 
-Adam Edwards et Vanessa Hill (Middlesex University Library)   
-[DeweyGameFR.docx] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/) (**CC BY-NC-SA 3.0**)   
-[ThinkingAboutKeywords1stYearFR.docx] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/) (**CC BY-NC-SA 3.0**)   
-version anglaise disponible sur [http://dspace.jorum.ac.uk/xmlui/handle/10949/18121] (http://dspace.jorum.ac.uk/xmlui/handle/10949/18121)
+Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@esbussigny.ch] (mailto:alexe.savioz@esbussigny.ch)
 
 Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch] (mailto:igor.milhit@hesge.ch)   
 [contributeur Github] (https://github.com/iGormilhit)   
