@@ -17,10 +17,8 @@ Raphaël Grolimund (Haute école de gestion de Genève - filière Information do
 [raphael.grolimund@hesge.ch] (mailto:raphael.grolimund@hesge.ch)   
 
 ## Contributeurs
-Audrey Bellier (Univeristé de Genève)   
-[Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
-Laure Mellifluo (Univeristé de Genève)   
-[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
+Audrey Bellier (Univeristé de Genève) [Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)   
+Laure Mellifluo (Univeristé de Genève) [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
 *La formation documentaire en sciences à l'Université de Genève* : [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5)
 
 Adam Edwards et Vanessa Hill (Middlesex University Library)   
@@ -28,7 +26,7 @@ Adam Edwards et Vanessa Hill (Middlesex University Library)
 [ThinkingAboutKeywords1stYearFR.docx] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/) (**CC BY-NC-SA 3.0**)   
 version anglaise disponible sur [http://dspace.jorum.ac.uk/xmlui/handle/10949/18121] (http://dspace.jorum.ac.uk/xmlui/handle/10949/18121)
 
-Igor Milhit (HEG Genève - filière Information documentaire)
+Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch] (mailto:igor.milhit@hesge.ch)   
 [contributeur Github] (https://github.com/iGormilhit)   
 corrections (format md, typo)
 
