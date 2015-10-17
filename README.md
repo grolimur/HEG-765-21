@@ -4,7 +4,7 @@
 *Ceci est un cours.*
 
 Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21n).   
-Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 5e semestre (7e ou 9e pour étudiants à temps partiel) de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
+Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 5e semestre (7e ou 9e pour les étudiants à temps partiel) de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
 
 site web de la HEG : [www.hesge.ch/heg] (http://www.hesge.ch/heg)   
 infos sur la filière [ID] (http://www.hesge.ch/heg/formation-base/bachelors-science/information-documentaire)
