@@ -19,3 +19,8 @@ La semaine suivante, la version X.1 est mise en ligne, la 3e semaine, c'est la v
 
 **Z correspond à d'éventuels correctifs**   
 Les éventuelles erreurs qui se sont glissées dans les contenus peuvent faire l'objet de correction qui sont signalées par l'*élément optionel Z*.
+
+
+**RC (Release Candidate)**   
+Lorsque le nouveau cours n'a pas encore commencé, les informations préalables (plan de cours p. ex.) sont signalées par l'*élément RC* accolé au dernier chiffre.   
+Ex. v2.0RC pour les informations sur la 2e année de cours publiées avant la 1ère semaine de cours.

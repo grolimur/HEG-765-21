@@ -17,8 +17,10 @@ Raphaël Grolimund (Haute école de gestion de Genève - filière Information do
 [raphael.grolimund@hesge.ch] (mailto:raphael.grolimund@hesge.ch)   
 
 ## Contributeurs
+Audrey Bellier (Univeristé de Genève)   
+[Audrey.Bellier@unige.ch] (mailto:Audrey.Bellier@unige.ch)
 Laure Mellifluo (Univeristé de Genève)   
-[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
+[Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)
 *La formation documentaire en sciences à l'Université de Genève* : [2014_presentation_HEG_LM (.pptx + .pdf)] (https://github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5)
 
 Adam Edwards et Vanessa Hill (Middlesex University Library)   
@@ -31,7 +33,8 @@ Igor Milhit (HEG Genève - filière Information documentaire)
 corrections (format md, typo)
 
 
-## Version `1.9.1`
+## Version `2.0RC`
+
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).
 

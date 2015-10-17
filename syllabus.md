@@ -1,93 +1,91 @@
-# Syllabus 2014-2015
+# Plan de cours 2015-2016
 
-syllabus du cours **formation des usagers en bibliothèque** (765-2n), donné par *Raphaël Grolimund*, à la Haute école de gestion (HEG) de Genève, filière information documentaire
-
-
-**30.10.2014 INTRODUCTION**
-
-10:30-12:00 | 1a | Introduction au cours: objectifs, méthodes
-
-13:30-15:00 | 1b | Le métier de formateur-bibliothécaire
-
-15:15-16:45 | 1c | Définir la formation (objectifs, etc.)
+Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n), donné par *Raphaël Grolimund*, à la Haute école de gestion (HEG) de Genève, filière information documentaire
 
 
-**6.11.2014 PRÉPARER LA FORMATION: CONTENUS**
+**29.10.2015 INTRODUCTION**
 
---:-----:-- | 2a | Choisir un des sujets de la semaine (*Open Access*, *Information Literacy*) [individuel]
+10:30-12:00 | S01 E01 | Objectifs du cours, modalités d'évaluation, méthodes pédagogiques, ressources à disposition
 
---:-----:-- | 2b | Prendre connaissance du matériel mis à disposition [individuel]
+13:30-15:00 | S01 E02 | Les sujets des formation en bibliothèque
 
---:-----:-- | 2c | Choisir un sujet sur lequel donner une formation [en groupe]
-
-
-**13.11.2014 PREPARER LA FORMATION: PUBLICS**
-
-10:30-12:00 | 3a | *Information Literacy* et autres littéracies
-
-13:30-15:00 | 3b | Adapter sa formation à son public
-
-15:15-16:45 | 3c | Début Travaux Pratiques (TP): check-list [en groupe]
+15:15-16:45 | S01 E03 | Définir la formation
 
 
-**20.11.2014 PREPARER LA FORMATION: OUTILS**
+**05.11.2015 PREPARATION DE LA FORMATION: CONTENUS**
 
-10:30-12:00 | 4a | Préparer un cours
+10:30-12:00 | S02 E01 | Anatomie d'une formation
 
-13:30-15:00 | 4b | Enregistrer un cours en vidéo
+13:30-15:00 | S02 E02 | Adapter sa formation à son public
 
-15:15-16:45 | 4c | Coaching TP: séquence [en groupe]
-
-
-**27.11.2014 PREPARER LA FORMATION: PUBLICS**
-
-10:30-12:00 | 5a | Retour d'expérience: Laure Mellifluo (Bibliothèque de l'Université de Genève - contexte académique)
-
-13:30-15:00 | 5b | Retour d'expérience: Véronique Avellan (Bibliothèque cantonale et universitaire de Lausanne - contexte scolaire)
-
-15:15-16:45 | 5c | Coaching TP: séquence [en groupe]
+15:15-16:45 | S02 E03 | Travaux pratiques
 
 
-**4.12.2014 PREPARER LA FORMATION: METHODES**
+**12.11.2015 PREPARATION DE LA FORMATION: CONTENUS**
 
-10:30-12:00 | 6a | Faire passer le message
+10:30-12:00 | S03 E01 | *Information Literacy & Co.*
 
-13:30-15:00 | 6b | Impliquer les participants
+13:30-15:00 | S03 E02 | *the open source teaching librarian*
 
-15:15-16:45 | 6c | Coaching TP: séquence [en groupe]
-
-
-**11.12.2014 PREPARER LA FORMATION: OUTILS**
-
-10:30-12:00 | 7a | Créer de l'interaction
-
-13:30-15:00 | 7b | Former hors des formations
-
-15:15-16:45 | 7c | Coaching TP: séquence ou supports [en groupe]
+15:15-16:45 | S03 E03 | Travaux pratiques
 
 
-**18.12.2014 PREPARER LA FORMATION: MÉTHODES**
+**19.11.2015 PREPARATION DE LA FORMATION: OUTILS**
 
-10:30-12:00 | 8a | Retour d'expérience: Karine Pasquier (Bibliothèques et discothèques municipales de la ville de Genève - lecture publique)
+10:30-12:00 | S04 E01 | Formation à distance
 
-13:30-15:00 | 8b | Trucs et astuces de formateur
+13:30-15:00 | S04 E02 | Enregistrer un cours en vidéo
 
-15:15-16:45 | 8c | Coaching TP: supports [en groupe]
-
-
-**08.01.2015 EVALUER LA FORMATION**
-
-10:30-12:00 | 9a | Evaluer
-
-13:30-15:00 | 9b | Bilan du cours
-
-15:15-16:45 | 9c | Coaching TP: supports [en groupe]
+15:15-16:45 | S04 E03 | Atelier découverte d'un logiciel d'édition vidéo
 
 
-**15.01.2015 DONNER LA FORMATION**
+**26.11.2015 PREPARATION DE LA FORMATION: PUBLICS**
 
-10:30-12:00 | 10a | Examen (1ère partie)
+10:30-12:00 | S05 E01 | Retour d'expérience: **Alexe Savioz** (bibliothèque scolaire de Bussigny)
 
-13:30-15:00 | 10b | Examen (2e partie)
+13:30-15:00 | S05 E02 | Retour d'expérience: **Laure Mellifluo** et **Audrey Bellier** (bibliothèque de l'Université de Genève)
 
-15:15-16:45 | 10c | Examen (3e partie)
+15:15-16:45 | S05 E03 | Travaux pratiques
+
+
+**03.12.2015 PREPARATION DE LA FORMATION: METHODES**
+
+10:30-12:00 | S06 E01 | Créer de l'interaction
+
+13:30-15:00 | S06 E02 | Impliquer les participants
+
+15:15-16:45 | S06 E03 | Travaux pratiques
+
+
+**10.12.2015 PREPARATION DE LA FORMATION: METHODES**
+
+10:30-12:00 | S07 E01 | Débogage en cours...
+
+13:30-15:00 | S07 E02 | Nouvelles méthodes pédagogiques
+
+15:15-16:45 | S07 E03 | Travaux pratiques
+
+
+**17.12.2015 EVALUATION DE LA FORMATION**
+
+10:30-12:00 | S08 E01 | Evaluer les participants
+
+13:30-15:00 | S08 E02 | Evaluer la formation
+
+15:15-16:45 | S08 E03 | Travaux pratiques
+
+
+**07.01.2016 APRES LA FORMATION**
+
+10:30-12:00 | S09 E01 | Si c'était à refaire...
+
+13:30-15:00 | S09 E02 | SAV de la formation + trucs et astuces de formateur
+
+15:15-16:45 | S09 E03 | Travaux pratiques
+
+
+**14.01.2016 DONNER LA FORMATION**
+
+08:30-12:30 | S10 E01 | Examen (1ère demi-classe)
+
+13:30-17:30 | S10 E02 | Examen (2e demi-classe)
