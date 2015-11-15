@@ -29,7 +29,7 @@ Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge
 *[contributeur Github] (https://github.com/iGormilhit) - corrections (format md, typo)*
 
 
-## Version `2.1`
+## Version `2.2`
 
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).
