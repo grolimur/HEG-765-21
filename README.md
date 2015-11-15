@@ -33,7 +33,7 @@ Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
-La v1.9.1, correspondant à la version finale du cours 2014-2015, est téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1] (https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1).   
+Version finale du cours 2014-2015 (v1.9.1) téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1] (https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1).   
 
 
 ## Licence `CC BY-SA`
