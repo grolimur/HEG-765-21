@@ -22,14 +22,14 @@ Audrey Bellier (Université de Genève) [Audrey.Bellier@unige.ch] (mailto:Audrey
 Laure Mellifluo (Université de Genève) [Laure.Mellifluo@unige.ch] (mailto:Laure.Mellifluo@unige.ch)   
 *guest speakers*
 
-Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@esbussigny.ch] (mailto:alexe.savioz@esbussigny.ch)   
+Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@vd.ch] (mailto:alexe.savioz@vd.ch)   
 *guest speaker*
 
 Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch] (mailto:igor.milhit@hesge.ch)   
 *[contributeur Github] (https://github.com/iGormilhit) - corrections (format md, typo)*
 
 
-## Version `2.2.1`
+## Version `2.2.2`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
