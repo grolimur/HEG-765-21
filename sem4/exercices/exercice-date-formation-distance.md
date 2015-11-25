@@ -11,8 +11,8 @@ Leur demander de situer les formes successives de formation à distance listée 
 Corriger le tout en leur demandant ce qu'ils ont répondu (sous forme d'enchère, par ex.).   
 
 ### Matériel
-fiche [exercice-date-formation-distance.pdf] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/sem4/exercices/docs/exercice-date-formation-distance.pdf) (fichier source également disponible - .odt)   
-corrigé [corrige-date-formation-distance.pdf] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/sem4/exercices/docs/corrige-date-formation-distance.pdf) (fichier source également disponible - .odt)   
+fiche [exercice-date-formation-distance.pdf] (https://github.com/grolimur/HEG-765-21/blob/master/sem4/exercices/docs/exercice-date-formation-distance.pdf) (fichier source également disponible - .odt)   
+corrigé [corrige-date-formation-distance.pdf] (https://github.com/grolimur/HEG-765-21/blob/master/sem4/exercices/docs/corrige-date-formation-distance.pdf) (fichier source également disponible - .odt)   
 
 ### Durée
 20 min. (10 min. pour que les étudiants fassent l'exercice + 10 min. pour corriger tous ensemble)
