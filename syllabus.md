@@ -25,7 +25,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 
 10:30-12:00 | S03 E01 | *Information Literacy & Co.*
 
-13:30-15:00 | S03 E02 | *the open source teaching librarian*
+13:30-15:00 | S03 E02 | *the free & open source teaching librarian*
 
 15:15-16:45 | S03 E03 | Travaux pratiques
 
@@ -34,9 +34,9 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 
 10:30-12:00 | S04 E01 | Formation à distance
 
-13:30-15:00 | S04 E02 | Enregistrer un cours en vidéo
+13:30-15:00 | S04 E02 | Enregistrer une formation en vidéo
 
-15:15-16:45 | S04 E03 | Atelier découverte d'un logiciel d'édition vidéo
+15:15-16:45 | S04 E03 | Travaux pratiques
 
 
 **26.11.2015 PREPARATION DE LA FORMATION: PUBLICS**
