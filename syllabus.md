@@ -50,9 +50,9 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 
 **03.12.2015 PREPARATION DE LA FORMATION: METHODES**
 
-10:30-12:00 | S06 E01 | Créer de l'interaction
+10:30-12:00 | S06 E01 | Impliquer les participants
 
-13:30-15:00 | S06 E02 | Impliquer les participants
+13:30-15:00 | S06 E02 | Créer de l'interaction
 
 15:15-16:45 | S06 E03 | Travaux pratiques
 
@@ -68,7 +68,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 
 **17.12.2015 EVALUATION DE LA FORMATION**
 
-10:30-12:00 | S08 E01 | Evaluer les participants
+10:30-12:00 | S08 E01 | Evaluer les participants (TP session de poster Master ID)
 
 13:30-15:00 | S08 E02 | Evaluer la formation
 
