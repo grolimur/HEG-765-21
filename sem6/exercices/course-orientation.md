@@ -24,9 +24,7 @@ Imprimer les documents suivants:
 [aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/course-orientation-aide.doc) - autant d'exemplaires que de personnes disponibles pour aider les groupes (ici *6 exemplaires*)   
 [panneau arrivée] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/panneau-arrivee.doc) - **1 exemplaire**   
 
-Avoir/obtenir l'autorisation de faire l'activité dans la bibliothèque (cette activité occasionne du bruit et du mouvement).   
-**Merci aux infothécaires (bibliothécaires de l'[Infothèque] (http://www.hesge.ch/heg/infotheque)) de m'avoir laisser investir leur bibliothèque pendant une heure pour pouvoir faire cette activité avec les étudiants!**   
-![logo-infotheque] (docs/course-orientation/images/logo_infotheque.png)   
+Avoir/obtenir l'autorisation de faire l'activité dans la bibliothèque (cf. Remerciements). Cette activité occasionne du bruit et du mouvement.   
 
 1. Mise en place   
 Chaque étudiant s'occupe de la mise en place d'un groupe.   
@@ -52,5 +50,7 @@ dossier **QR/** contenant le QR code pour la question dont la réponse est en li
 20 min. de mise en place (5 min. d'explications + 15 min. par groupe)   
 30 min. de course d'orientation
 
-### Post-scriptum
-Les fichiers pour cette course d'orientation sont au format MS Word, car ils étaient destinés aux infothécaires.   
+### Remerciements
+**Merci aux infothécaires (bibliothécaires de l'[Infothèque] (http://www.hesge.ch/heg/infotheque)) de m'avoir laisser investir leur bibliothèque pendant une heure pour pouvoir faire cette activité avec les étudiants!**   
+![logo-infotheque] (docs/course-orientation/images/logo_infotheque.png)   
+
