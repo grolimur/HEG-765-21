@@ -26,7 +26,7 @@ Imprimer les documents suivants:
 
 Avoir/obtenir l'autorisation de faire l'activité dans la bibliothèque (cette activité occasionne du bruit et du mouvement).   
 **Merci aux infothécaires (bibliothécaires de l'[Infothèque] (http://www.hesge.ch/heg/infotheque)) de m'avoir laisser investir leur bibliothèque pendant une heure pour pouvoir faire cette activité avec les étudiants!**   
-![](images/logo_infotheque.png)   
+![logo-infotheque] (images/logo_infotheque.png)   
 
 1. Mise en place   
 Chaque étudiant s'occupe de la mise en place d'un groupe.   
