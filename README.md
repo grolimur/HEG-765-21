@@ -28,8 +28,11 @@ Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@vd.ch] (mailto:
 Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch] (mailto:igor.milhit@hesge.ch)   
 *[contributeur Github] (https://github.com/iGormilhit) - corrections (format md, typo)*
 
+Stéphanie Pouchot (HEG Genève - filière Information documentaire) [stephanie.pouchot@hesge.ch] (mailto:stephanie.pouchot@hesge.ch)   
+*[AutoEvalPoster.pdf] (http://www.github.com/grolimur/HEG-765-21/tree/master/sem8/exercices/docs/AutoEvalPoster.pdf) et invitation à la session de posters du 17 décembre 2015*
 
-## Version `2.6`
+
+## Version `2.7`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 

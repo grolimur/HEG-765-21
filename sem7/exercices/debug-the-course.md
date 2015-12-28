@@ -11,8 +11,8 @@ Pour chaque partie, ils ont le choix de la conserver, de la modifier ou de la su
 Ils remplissent une séquence pédagogique vierge et présente ensuite leur proposition en 5 minutes à la classe.   
 
 ### Matériel
-séquence du S02E02 [.odt] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem7/exercices/docs/sequenceS02E02.odt) et [.pdf] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem7/exercices/docs/sequenceS02E02.pdf)   
-séquence vierge [.odt] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem7/exercices/docs/sequence-vierge.odt) et [.pdf] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem7/exercices/docs/sequence-vierge.pdf)   
+séquence du S02E02 [.odt] (http://www.github.com/grolimur/HEG-765-21/tree/master/sem7/exercices/docs/sequenceS02E02.odt) et [.pdf] (http://www.github.com/grolimur/HEG-765-21/tree/master/sem7/exercices/docs/sequenceS02E02.pdf)   
+séquence vierge [.odt] (http://www.github.com/grolimur/HEG-765-21/tree/master/sem7/exercices/docs/sequence-vierge.odt) et [.pdf] (http://www.github.com/grolimur/HEG-765-21/tree/master/sem7/exercices/docs/sequence-vierge.pdf)   
 support de présentation S02E02 [.odt] (https://github.com/grolimur/HEG-765-21/blob/master/sem2/supports/formation-usagers-bib-S02-E02.odp) et [.pdf] (https://github.com/grolimur/HEG-765-21/blob/master/sem2/supports/formation-usagers-bib-S02-E02.pdf)   
 
 ### Durée
