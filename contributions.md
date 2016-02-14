@@ -56,7 +56,7 @@ Aurélie Gindre
 Ce que les étudiants ont partagé est disponible...   
 
 * dans la [bibliographie de cours](https://www.zotero.org/groups/heg-765-2n/items) avec le marqueur **#contribution externe** (pour les références et cours en ligne)   
-* dans le dossier [contributions](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/evaluations/contributions) (pour les logiciels utiles en formation)   
+* dans le dossier [contributions](https://github.com/grolimur/HEG-765-21/tree/master/evaluations/contributions) (pour les logiciels utiles en formation)   
 
-Le dossier [contributions](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/evaluations/contributions) contient les fiches descriptives de 8 outils proposés par les étudiants. Les fichiers portent des noms du type `[nom-du-logiciel]-fiche-descriptive.pdf`.
+Le dossier [contributions](https://github.com/grolimur/HEG-765-21/tree/master/evaluations/contributions) contient les fiches descriptives de 8 outils proposés par les étudiants. Les fichiers portent des noms du type `[nom-du-logiciel]-fiche-descriptive.pdf`.
 Le fichier source est lui nommé `outils-fiches-descriptives` (.odp et .pdf).

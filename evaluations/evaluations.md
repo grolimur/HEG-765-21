@@ -7,7 +7,7 @@ L'évaluation se décomposent en 2 parties (comme indiqué dans l'introduction d
 * Formation à donner (semaine 10)
 
 ## ÉVALUATION DYNAMIQUE
-Le fonctionnement de l'évaluation dynanmique sont décrit dans [evaluation-dynamique.md] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/evaluations/evaluation-dynamique.md).   
+Le fonctionnement de l'évaluation dynanmique sont décrit dans [evaluation-dynamique.md](https://github.com/grolimur/HEG-765-21/blob/master/evaluations/evaluation-dynamique.md).   
 
 ## FORMATION
 Formation à donner en groupe de 3 ou 4 personnes.   

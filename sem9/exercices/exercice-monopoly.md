@@ -30,13 +30,13 @@ Demander aux étudiants de proporiser les éléments de la liste.
 Chaque table a CHF 380.- à sa disposition pour "entreprendre des travaux", mais il n'y a aucune obligation de tout dépenser. Le fait de devoir décider à deux les obligent à discuter, mais les empêchent de donner leur avis personnel.   
 Point important: les étudiants peuvent réutiliser les billets à chaque phase (1., 2. & 3.).   
 
-La synthèse des avis des étudiants du cours 2015-2016 est consigné dans [https://github.com/grolimur/HEG-765-21/blob/master/sem9/exercices/2015-2016-issues.md] (https://github.com/grolimur/HEG-765-21/blob/master/sem9/exercices/2015-2016-issues.md).   
+La synthèse des avis des étudiants du cours 2015-2016 est consigné dans [https://github.com/grolimur/HEG-765-21/blob/master/2015-2016-issues.md](https://github.com/grolimur/HEG-765-21/blob/master/2015-2016-issues.md).   
 
 ### Matériel
-Cette année, j'ai utilisé des billets provenant d'un jeu d'enfants: [https://www.postshop.ch/fr/Produits/Jeu-et-loisirs/Jouets-divers/Jeux-de-rle/Poste-des-enfants-KE_505622] (https://www.postshop.ch/fr/Produits/Jeu-et-loisirs/Jouets-divers/Jeux-de-rle/Poste-des-enfants-KE_505622) (consulté le 10 janvier 2016).   
-Voici une illustration du contenu du jeu: [http://babyjoe.data.continum.net/pictures//master/product/1/carlit-kinderpost.jpg] (http://babyjoe.data.continum.net/pictures//master/product/1/carlit-kinderpost.jpg) (consulté le 10 janvier 2016).   
+Cette année, j'ai utilisé des billets provenant d'un jeu d'enfants: [https://www.postshop.ch/fr/Produits/Jeu-et-loisirs/Jouets-divers/Jeux-de-rle/Poste-des-enfants-KE_505622](https://www.postshop.ch/fr/Produits/Jeu-et-loisirs/Jouets-divers/Jeux-de-rle/Poste-des-enfants-KE_505622) (consulté le 10 janvier 2016).   
+Voici une illustration du contenu du jeu: [http://babyjoe.data.continum.net/pictures//master/product/1/carlit-kinderpost.jpg](http://babyjoe.data.continum.net/pictures//master/product/1/carlit-kinderpost.jpg) (consulté le 10 janvier 2016).   
 
-Vous pouvez tout aussi bien utiliser des billets de Monopoly que vous trouverez sur [monopolypedia.fr] (http://www.monopolypedia.fr/univers/goodies/billets/billets.php), imprimés en couleur pour distinguer plus facilement les billets que les étudiants brandissent.   
+Vous pouvez tout aussi bien utiliser des billets de Monopoly que vous trouverez sur [monopolypedia.fr](http://www.monopolypedia.fr/univers/goodies/billets/billets.php), imprimés en couleur pour distinguer plus facilement les billets que les étudiants brandissent.   
 
 Préparer les lots à distribuer à l'avance permet de gagner beaucoup de temps!    
 

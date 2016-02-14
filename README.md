@@ -35,7 +35,7 @@ Stéphanie Pouchot (HEG Genève - filière Information documentaire) [stephanie.
 *[AutoEvalPoster.pdf](http://www.github.com/grolimur/HEG-765-21/tree/master/sem8/exercices/docs/AutoEvalPoster.pdf) et invitation à la session de posters du 17 décembre 2015*   
 
 
-## Version `2.9`
+## Version `2.9.1`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
