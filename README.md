@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Formation des usagers en bibliotheques
 
 *Ceci n'est pas un logiciel ou un site web.*   
@@ -20,23 +19,9 @@ Raphaël Grolimund
 
 ## Contributeurs
 Le détail des contributions se trouve dans [contributions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/contributions.md).   
-Ne sont indiquées ici que les contributions externes les plus conséquentes :   
-
-Audrey Bellier (Université de Genève) [Audrey.Bellier@unige.ch](mailto:Audrey.Bellier@unige.ch)   
-Laure Mellifluo (Université de Genève) [Laure.Mellifluo@unige.ch](mailto:Laure.Mellifluo@unige.ch)   
-*guest speakers: [2015_presentation_HEG_AB_LM](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/sem5/) (.pptx & .pdf)*   
-
-Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@vd.ch](mailto:alexe.savioz@vd.ch)   
-*guest speaker: [prezi](http://prezi.com/r-vvvgehswop/)*   
-
-Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch](mailto:igor.milhit@hesge.ch)   
-*[contributeur Github](https://github.com/iGormilhit) - corrections (format md, typo)*   
-
-Stéphanie Pouchot (HEG Genève - filière Information documentaire) [stephanie.pouchot@hesge.ch](mailto:stephanie.pouchot@hesge.ch)   
-*[AutoEvalPoster.pdf](http://www.github.com/grolimur/HEG-765-21/tree/master/sem8/exercices/docs/AutoEvalPoster.pdf) et invitation à la session de posters du 17 décembre 2015*   
 
 
-## Version `3.0.0RC1`
+## Version `3.0.0RC2`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
@@ -114,38 +99,3 @@ Dans le cas contraire, leur volonté est respectée (les supports sont mis à di
 
 ### Étudiants
 Les étudiants sont encouragés à proposer des modifications/améliorations pour ce cours.
-=======
-# Collaborer et partager en ligne sans Google & Co.
-
-## Description
-Ces notes sont à une formation continue sur le thème *Ma vie sans Google* interne à la [Bibliothèque de l'EPFL](http://library.epfl.ch) ayant eu lieu en février 2016.   
-![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
-
-Il s'agit de la 2e partie de *Ma vie sans Google*. La première ayant répondu à la question "Pourquoi se passer de Google ?", cette suite répond à la question "Comment se passer de Google ?".   
-Ce document est dérivé des notes de cours de la formation *Collaborer et partager en ligne sans Google & Co.* (v0.99) dispensée dans le cadre du programme de formation continue de [BIS](http://http://www.bis.ch) (Bibliothèque Information Suisse):   
-[https://www.gitbook.com/book/grolimur/collaborer-sans-google/details](https://www.gitbook.com/book/grolimur/collaborer-sans-google/details)   
-
-## Auteur
-Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
-
-## Version `0.2`
-La dernière version de ce document est disponible sur [https://www.gitbook.com/book/grolimur/ma-vie-sans-google](https://www.gitbook.com/book/grolimur/ma-vie-sans-google).   
-Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
-
-*Historique des versions*   
-**0.1**: version initiale (12.02.2016)   
-**0.2**: màj pour la 2e séance (16.02.2016)   
-
-## Licence `CC BY`
-![logo-CC-BY](img/by.svg)   
-Ce document est mis à disposition selon les termes de la Licence [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
-Les fichiers source sont disponibles sur [https://github.com/grolimur/collaborer-sans-Google](https://github.com/grolimur/collaborer-sans-Google).   
-
-## Informations complémentaires
-Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
-La date de consultation correspond à la date de publication de la présente version.   
-
-## Objectifs de la formation
-
-Connaître des options alternatives à Google & Co.
->>>>>>> bf7ab01d1ef837c42cf971b58b41a761b2e6c066
