@@ -21,7 +21,7 @@ Raphaël Grolimund
 Le détail des contributions se trouve dans [contributions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/contributions.md).   
 
 
-## Version `3.0.0RC2`
+## Version `3.0`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
