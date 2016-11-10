@@ -3,7 +3,7 @@
 *Ceci n'est pas un logiciel ou un site web.*   
 *Ceci est un cours.*
 
-Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21n).   
+Vous trouverez ici tous les contenus et documents préparatoires du cours **formation des usagers en bibliothèques** (765-21).   
 Ce cours, qui dure **10 semaines**, est destiné aux étudiants Bachelor de 5e semestre (7e ou 9e pour les étudiants à temps partiel) de la Haute école de gestion (HEG) de Genève, filière information documentaire (ID).
 
 site web de la HEG : [www.hesge.ch/heg](http://www.hesge.ch/heg)   
@@ -21,7 +21,7 @@ Raphaël Grolimund
 Le détail des contributions se trouve dans [contributions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/contributions.md).   
 
 
-## Version `3.0`
+## Version `3.1`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 

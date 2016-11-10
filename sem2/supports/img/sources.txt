@@ -1,0 +1,12 @@
+SOURCES
+-------
+
+Opera browser logo (Freepik)		http://www.flaticon.com/free-icon/opera-browser-logo_14512
+Internet explorer Logo (Freepik)	http://www.flaticon.com/free-icon/internet-explorer-logo_14282
+Chrome logo (Freepik)			http://www.flaticon.com/free-icon/chrome-logo_13770
+Firefox logo (Freepik)			http://www.flaticon.com/free-icon/firefox-logo_14327
+Safari free icon (Icomoon)		http://www.flaticon.com/free-icon/safari_23784
+Einstein (CC BY 3.0 Roman Rusino)	https://thenounproject.com/term/einstein/16422/
+Heart (CC 0)				https://thenounproject.com/term/heart/187/
+Heart (CC BY 3.0 Catherine Please)	https://thenounproject.com/term/heart/4451/
+
