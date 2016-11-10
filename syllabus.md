@@ -3,7 +3,7 @@
 Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n), donné par *Raphaël Grolimund*, à la Haute école de gestion (HEG) de Genève, filière information documentaire
 
 
-###03.11.2016 INTRODUCTION
+### 03.11.2016 INTRODUCTION
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -12,7 +12,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S01 E03 | B03.09 | Définir une formation |
 
 
-###10.11.2016 PREPARATION DE LA FORMATION: CONTENUS
+### 10.11.2016 PREPARATION DE LA FORMATION: CONTENUS
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -21,7 +21,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S02 E03 | F413 | Travaux pratiques |
 
 
-###17.11.2016 PREPARATION DE LA FORMATION: CONTENUS
+### 17.11.2016 PREPARATION DE LA FORMATION: CONTENUS
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -30,7 +30,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S03 E03 | F413 | Travaux pratiques |
 
 
-###24.11.2016 PREPARATION DE LA FORMATION: MÉTHODES
+### 24.11.2016 PREPARATION DE LA FORMATION: MÉTHODES
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -39,7 +39,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S04 E03 | F413 | Travaux pratiques (ou Enregistrer une formation en vidéo) |
 
 
-###01.12.2016 PREPARATION DE LA FORMATION: PUBLICS
+### 01.12.2016 PREPARATION DE LA FORMATION: PUBLICS
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -48,7 +48,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S05 E03 | F413 | Travaux pratiques |
 
 
-###08.12.2016 PREPARATION DE LA FORMATION: OUTILS
+### 08.12.2016 PREPARATION DE LA FORMATION: OUTILS
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -57,16 +57,16 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S06 E03 | F413 | Travaux pratiques |
 
 
-###15.12.2016 PREPARATION DE LA FORMATION: MÉTHODES
+### 15.12.2016 PREPARATION DE LA FORMATION: MÉTHODES
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
-| 10:30-12:00 | S07 E01 | B03.09 | *Partage d'expérience*: **Melissa Paez** (Infothèque HEG Genève) |
+| 10:30-12:00 | S07 E01 | B03.09 | *Partage d'expérience*: **Melissa Paez** et **Virginie Guilbert** (Infothèque HEG Genève) |
 | 13:30-15:00 | S07 E02 | B03.09 | *Open Bar*: testez/présentez des outils utiles en formation! |
 | 15:15-16:45 | S07 E03 | F413 | Travaux pratiques |
 
 
-###22.12.2016 EVALUATION DE LA FORMATION
+### 22.12.2016 EVALUATION DE LA FORMATION
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -75,7 +75,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S08 E03 | F413 | Travaux pratiques |
 
 
-###12.01.2017 APRES LA FORMATION
+### 12.01.2017 APRÈS LA FORMATION
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
@@ -84,7 +84,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | 15:15-16:45 | S09 E03 | F413 | Travaux pratiques |
 
 
-###19.01.2017 DONNER LA FORMATION
+### 19.01.2017 DONNER LA FORMATION
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
