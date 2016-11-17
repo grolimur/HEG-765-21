@@ -62,7 +62,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
 | 10:30-12:00 | S07 E01 | B03.09 | *Partage d'expérience*: **Melissa Paez** et **Virginie Guilbert** (Infothèque HEG Genève) |
-| 13:30-15:00 | S07 E02 | B03.09 | *Open Bar*: testez/présentez des outils utiles en formation! |
+| 13:30-15:00 | S07 E02 | B03.09 | Reconnaissance des compétences acquises |
 | 15:15-16:45 | S07 E03 | F413 | Travaux pratiques |
 
 
@@ -70,7 +70,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
-| 10:30-12:00 | S08 E01 | B03.09 | Reconnaissance des compétences acquises |
+| 10:30-12:00 | S08 E01 | B03.09 | Planifier un programme de formation, **René Schneider** (professeur, HEG Genève, filière ID) |
 | 13:30-15:00 | S08 E02 | B03.09 | Évaluer dans une formation |
 | 15:15-16:45 | S08 E03 | F413 | Travaux pratiques |
 
