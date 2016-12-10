@@ -3,9 +3,11 @@
 ## CONTRIBUTIONS EXTERNES
 Audrey Bellier (Université de Genève) [Audrey.Bellier@unige.ch](mailto:Audrey.Bellier@unige.ch)   
 Laure Mellifluo (Université de Genève) [Laure.Mellifluo@unige.ch](mailto:Laure.Mellifluo@unige.ch)   
+[http://www.github.com/grolimur/HEG-765-21/tree/master/sem6/supports/2016_presentation_HEG_AB_LM.pdf](http://www.github.com/grolimur/HEG-765-21/tree/master/sem6/supports/2016_presentation_HEG_AB_LM.pdf)   
 *guest speakers*
 
 Alexe Savioz (établissement scolaire de Bussigny) [alexe.savioz@vd.ch](mailto:alexe.savioz@vd.ch)   
+[https://cyberlearn.hes-so.ch/mod/url/view.php?id=617398](https://cyberlearn.hes-so.ch/mod/url/view.php?id=617398)   
 *guest speaker*
 
 Igor Milhit (HEG Genève - filière Information documentaire) [igor.milhit@hesge.ch](mailto:igor.milhit@hesge.ch)   

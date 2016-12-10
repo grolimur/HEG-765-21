@@ -1,0 +1,21 @@
+﻿SOURCES
+
+MPL Tor team
+Tor Browser logo
+https://commons.wikimedia.org/wiki/File:Tor_Browser_logo.png
+
+MPL Sean Martell for Mozilla
+Mozilla Firefox logo 2013
+https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
+
+CC BY 2.5/BSD The Chromium Development Documentation Project
+Chromium Material Icon-256x256
+https://commons.wikimedia.org/wiki/File:Chromium_Material_Icon-256x256.png
+
+CC0 Vivaldi
+Vivaldi web browser logo
+https://commons.wikimedia.org/wiki/File:Vivaldi_web_browser_logo.svg
+
+LGPL Oxygen team
+Konqueror 4 Oxygen
+https://commons.wikimedia.org/wiki/File:Konqueror_4_Oxygen.svg

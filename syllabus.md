@@ -53,7 +53,7 @@ Syllabus du cours à option **formation des usagers en bibliothèque** (765-2n),
 | horaire     | numéro  | salle | titre |
 | :---------- | :------ | :---- |:----- |
 | 10:30-12:00 | S06 E01 | B03.09 | *Partage d'expérience*: **Laure Mellifluo** et **Audrey Bellier** (biblio. de l'Université de Genève) |
-| 13:30-15:00 | S06 E02 | B03.09 | *Gamification & Co.* |
+| 13:30-15:00 | S06 E02 | B03.09 | *Gamification* |
 | 15:15-16:45 | S06 E03 | F413 | Travaux pratiques |
 
 
