@@ -21,12 +21,12 @@ Raphaël Grolimund
 Le détail des contributions se trouve dans [contributions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/contributions.md).   
 
 
-## Version `3.9`
+## Version `3.9.1`
 
 Pour connaître la signification des versions, consultez le fichier [versions.md](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/versions.md).   
 
 **Historique** :   
-Version finale de la 3e année de cours (2016-2017) téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v3.9](https://github.com/grolimur/HEG-765-21/releases/tag/v3.9).   
+Version finale de la 3e année de cours (2016-2017) téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v3.9.1](https://github.com/grolimur/HEG-765-21/releases/tag/v3.9.1).   
 Version finale de la 2e année de cours (2015-2016) téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v2.9.1](https://github.com/grolimur/HEG-765-21/releases/tag/v2.9.1).   
 Version finale de la 1ère année de cours (2014-2015) téléchargeable ici: [https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1](https://github.com/grolimur/HEG-765-21/releases/tag/v1.9.1).   
 
