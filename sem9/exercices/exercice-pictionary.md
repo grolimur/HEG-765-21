@@ -12,7 +12,7 @@ Lorsque les autres étudiants ont trouvé, demandez à l'étudiant/e d'indiquer 
 
 Si les étudiants ne couvrent pas tous les points que l'enseignant souhaite aborder, ce dernier peut lui aussi dessiner. (Cela plaît bien aux étudiants que l'enseignant descende aussi dans l'arène...)   
 
-Le résultat de cette année ressemble à ça: [pictionary](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/sem9/exercices/2016.01.07-pictionary.JPG).   
+Le résultat de l'année dernière ressemblait à ça: [pictionary](http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/blob/master/sem9/exercices/2016.01.07-pictionary.JPG).   
 
 ### Matériel
 un tableau (blanc, noir)   
