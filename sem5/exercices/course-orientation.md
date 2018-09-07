@@ -19,16 +19,16 @@ Le matériel décrit ci-dessous est prévu pour 5 groupes. Il faut donc demander
 
 0. Préparation   
 Imprimer les documents suivants:   
-[étiquettes] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/etiquettes.doc) - **1 exemplaire**   
-[questions pour chaque groupe] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/groupes.doc) - **2 exemplaires**   
-[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/course-orientation-aide.doc) - autant d'exemplaires que de personnes disponibles pour aider les groupes (ici *6 exemplaires*)   
-[panneau arrivée] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/panneau-arrivee.doc) - **1 exemplaire**   
+[étiquettes] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/etiquettes.doc) - **1 exemplaire**   
+[questions pour chaque groupe] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/groupes.doc) - **2 exemplaires**   
+[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/course-orientation-aide.doc) - autant d'exemplaires que de personnes disponibles pour aider les groupes (ici *6 exemplaires*)   
+[panneau arrivée] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/panneau-arrivee.doc) - **1 exemplaire**   
 
 Avoir/obtenir l'autorisation de faire l'activité dans la bibliothèque (cf. Remerciements). Cette activité occasionne du bruit et du mouvement.   
 
 1. Mise en place   
 Chaque étudiant s'occupe de la mise en place d'un groupe.   
-L'étudiant reçoit des indices à aller cacher dans la bibliothèque. Les indices contiennent les questions (cf. [fichier groupes.doc] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/groupes.doc)) alors que les réponses sont dans l'[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/course-orientation-aide.doc).   
+L'étudiant reçoit des indices à aller cacher dans la bibliothèque. Les indices contiennent les questions (cf. [fichier groupes.doc] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/groupes.doc)) alors que les réponses sont dans l'[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/course-orientation-aide.doc).   
 
 2. course d'orientation   
 Les étudiants se répartissent en groupe (ici 5).   
@@ -39,12 +39,12 @@ Si un indice manque (parce que le document dans lequel il est dissimulé n'est p
 Prévoir un petit lot (friandises, chocolats, etc.) pour les vainqueurs (ou tout le monde).   
 
 ### Matériel
-[étiquettes] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/etiquettes.doc) à coller sur l'enveloppe distribuée au début   
-[questions pour chaque groupe] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/groupes.doc)   
-[panneau arrivée] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/panneau-arrivee.doc)   
+[étiquettes] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/etiquettes.doc) à coller sur l'enveloppe distribuée au début   
+[questions pour chaque groupe] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/groupes.doc)   
+[panneau arrivée] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/panneau-arrivee.doc)   
 dossier **images/** contenant les logos qui permettent de distinguer les questions d'un groupe de celles d'un autre.   
 dossier **QR/** contenant le QR code pour la question dont la réponse est en ligne   
-[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem6/exercices/docs/course-orientation/course-orientation-aide.doc) - autant d'exemplaires que de personnes disponibles pour aider les groupes (ici *6 exemplaires*)   
+[aide] (http://www.github.com/grolimur/formation-des-usagers-en-bibliotheque/tree/master/sem5/exercices/docs/course-orientation/course-orientation-aide.doc) - autant d'exemplaires que de personnes disponibles pour aider les groupes (ici *6 exemplaires*)   
 
 ### Durée
 20 min. de mise en place (5 min. d'explications + 15 min. par groupe)   
